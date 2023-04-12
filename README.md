@@ -22,7 +22,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 - [Basemodel Papers](#basemodel) 
 - [Derivative Papers](#derivative-papers)
 - [Derivative Projects](#derivative-projects) 
-  - [Segmetion task](#segmetion-task)
+  - [General Segmentation task](#general-segmetion-task)
   - [Inpainting task](#inpainting-task)
   - [Image Generation task](#image-generation-task)
   - [Video Segmentation task](#video-segmantation-task)
@@ -48,7 +48,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 | SAMCOD | - | [arXiv](https://arxiv.org/abs/2304.04709) | - | [Code](https://github.com/luckybird1994/SAMCOD) | - | SAM + Camouflaged object detection (COD) task.|
 
 ### Derivative Projects
-#### Segmetion task
+#### General Segmentation task
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:| 
 | Grounded Segment Anything | ![img](https://github.com/IDEA-Research/Grounded-Segment-Anything/raw/main/assets/acoustics/gsam_whisper_inpainting_demo.png)|[Colab](https://github.com/camenduru/grounded-segment-anything-colab) & [Huggingface](https://huggingface.co/spaces/yizhangliu/Grounded-Segment-Anything) | [Code](https://github.com/IDEA-Research/Grounded-Segment-Anything) | - | Combining Grounding DINO and Segment Anything| - | 
