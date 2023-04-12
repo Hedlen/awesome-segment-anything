@@ -58,13 +58,13 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 #### Medical image Segmentation task
 | Title | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| 
-| SAM in Napari | - |[Code](https://github.com/MIC-DKFZ/napari-sam) | - | Segment anything with our Napari integration of SAM.|
+| SAM in Napari | ![video](https://www.youtube.com/watch?v=OPE1Xnw487E)|- |[Code](https://github.com/MIC-DKFZ/napari-sam) | - | Segment anything with our Napari integration of SAM.|
 
 #### Inpainting task
-| Title | Project page | Code base | Affiliation| Description|
-|:---:|:---:|:---:|:---:| :---:| 
-| SegAnythingPro | - |[Code](https://github.com/jinfagang/Disappear) | - | SAM + Inpainting/Replacing.|
-| Inpaint Anything | ![img1](https://github.com/geekyutao/Inpaint-Anything/blob/main/example/fill-anything/sample4/with_points.png)![img2](https://github.com/geekyutao/Inpaint-Anything/blob/main/example/fill-anything/sample4/with_mask.png)![img3](https://github.com/geekyutao/Inpaint-Anything/blob/main/example/fill-anything/sample4/filled_with_mask.png)|- |[Code](https://github.com/geekyutao/Inpaint-Anything) | - | SAM Meets Image Inpainting.|
+| Title | Presentation|  Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:| 
+| SegAnythingPro | ![img](https://camo.githubusercontent.com/7d5fb67ffcd6c209cf22ffe302d95b3b46d36b92116fe216022bf2a359c4b588/68747470733a2f2f6a6968756c61622e636f6d2f676f646c792f666765722f2d2f7261772f6d61696e2f696d616765732f323032332f30342f31315f31325f345f34325f32303233303431313132303433392e706e67)|- |[Code](https://github.com/jinfagang/Disappear) | - | SAM + Inpainting/Replacing.|
+| Inpaint Anything | ![img1]https://github.com/geekyutao/Inpaint-Anything/blob/main/example/framework.png|- |[Code](https://github.com/geekyutao/Inpaint-Anything) | - | SAM Meets Image Inpainting.|
 
 #### Image Generation task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
