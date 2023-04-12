@@ -28,7 +28,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
   - [Image Generation task](#image-generation-task)
   - [Video Segmentation task](#video-segmantation-task)
   - [Remote Sensing task](#remote-sensing-task)
-  - [Moving Object detection task](#moving-object-detection-task)
+  - [Moving Object Detection task](#moving-object-detection-task)
 
 ## Papers/Projects
 ### Basemodel
@@ -94,7 +94,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 |:---:|:---:|:---:|:---:| :---:| :---:| 
 | Earth Observation Tools | ![img](https://github.com/aliaksandr960/segment-anything-eo/raw/main/title_sameo.png?raw=true) |[Colab](https://colab.research.google.com/drive/1RC1V68tD1O-YissBq9nOvS2PHEjAsFkA?usp=share_link) |[Code](https://github.com/aliaksandr960/segment-anything-eo) | - | SAM + Remote Sensing. |
 
-#### Moving Object detection task
+#### Moving Object Detection task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:| 
 | Moving Object Setection | ![img](https://camo.githubusercontent.com/cd073471951017a15cd445062d196242a446eb20acd90b2afa1728f239465fc7/687474703a2f2f7777772e616368616c646176652e636f6d2f70726f6a656374732f616e797468696e672d746861742d6d6f7665732f766964656f732f5a584e36412d747261636b65642d776974682d6f626a6563746e6573732d7472696d6d65642e676966) | - |[Code](https://github.com/achalddave/segment-any-moving) | - | SAM + Moving Object Detection. |
