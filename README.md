@@ -10,9 +10,14 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 
 ## Contents
 
-- [Basemodel](#basemodel) 
-- [Derivative Papers](#derivative_papers) 
-- [Derivative Projects](#derivative_projects) 
+- [Basemodel Papers](#basemodel) 
+- [Derivative Papers](#derivative-papers)
+- [Derivative Projects](#derivative-projects) 
+  - [Segmetion task](#segmetion-task)
+  - [Medical image Segmentation task](#medical-image-segmentation-task)
+  - [Inpainting task](#inpainting-task)
+  - [Image Generation task](#image-generation-task)
+  - 
 
 ## Papers/Projects
 ### Basemodel
@@ -39,7 +44,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 | GroundedSAM Anomaly Detection |[Unofficial demo](https://github.com/camenduru/grounded-segment-anything-colab) & [Huggingface](https://huggingface.co/spaces/yizhangliu/Grounded-Segment-Anything) | [Code](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)| - | Combining Grounding DINO and Segment Anything to segment any anomaly without any training. 
 | Semantic Segment Anything | - | [Code](https://github.com/fudan-zvg/Semantic-Segment-Anything) | Fudan | Semantic Segment Anything (SSA) project enhances the Segment Anything dataset (SA-1B) with a dense category annotation engine. 
 | Magic Copy | - |[Code](https://github.com/kevmo314/magic-copy) | - | Magic Copy is a Chrome extension that uses SAM. |
-| Segment Anything with Clip | - |[Code](https://github.com/Curt-Park/segment-anything-with-clip) |  | | 
+| Segment Anything with Clip | - |[Code](https://github.com/Curt-Park/segment-anything-with-clip) | -  | SAM + CLIP| 
 | SAM-Clip | - |[Code](https://github.com/Curt-Park/segment-anything-with-clip) | - | Classify the output masks of segment-anything with the off-the-shelf CLIP models.| 
 | Prompt Segment Anything | - | [Code](https://github.com/RockeyCoss/Prompt-Segment-Anything)| - | An implementation of zero-shot instance segmentation using Segment Anything. |
 | RefSAM | - |[Code](https://github.com/helblazer811/RefSAM) | - | Evaluating the basic performance of SAM on the Referring Image Segmementation task. | 
@@ -67,7 +72,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 
 ## References
 
-- [Ref Repo](https://github.com/JerryX1110/awesome-segment-anything-extensions)
+- [awesome-segment-anything-extensions](https://github.com/JerryX1110/awesome-segment-anything-extensions). 
 
 ## License
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
