@@ -23,10 +23,10 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 - [Derivative Papers](#derivative-papers)
 - [Derivative Projects](#derivative-projects) 
   - [Segmetion task](#segmetion-task)
-  - [Medical image Segmentation task](#medical-image-segmentation-task)
   - [Inpainting task](#inpainting-task)
   - [Image Generation task](#image-generation-task)
   - [Video Segmentation task](#video-segmantation-task)
+  - [Medical image Segmentation task](#medical-image-segmentation-task)
   - [Remote Sensing task](#remote-sensing-task)
   - [Moving Object Detection task](#moving-object-detection-task)
 
@@ -65,11 +65,6 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 | Annotation Anything Pipeline |![img](https://user-images.githubusercontent.com/48062034/231222391-5423f45c-6133-45f0-81b1-be0cdaeda545.png) | [YoutubeDemo](https://www.youtube.com/watch?v=5iQSGL7ebXE) |[Code](https://github.com/vietanhdev/anylabeling) | - | SAM + Labelme + LabelImg + Auto-labeling.|
 | AnyLabel |![img](https://user-images.githubusercontent.com/18329471/231320488-2f8133bc-6b51-48f8-82a6-dd3b267f5156.png) | - |[Code](https://github.com/Yuqifan1117/Annotation-anything-pipeline) | - | GPT + SAM.|
 
-#### Medical image Segmentation task
-| Title | Presentation|  Project page | Code base | Affiliation| Description|
-|:---:|:---:|:---:|:---:| :---:| :---:| 
-| SAM in Napari |[Video](https://www.youtube.com/watch?v=OPE1Xnw487E)|- |[Code](https://github.com/MIC-DKFZ/napari-sam) | - | Segment anything with our Napari integration of SAM.|
-| SAM Medical Imaging |[img](https://miro.medium.com/v2/resize:fit:720/format:webp/1*_0vvAXd8LnMu2t0rEt5a0Q.png)|- |[Code](https://github.com/amine0110/SAM-Medical-Imaging) | - | SAM for Medical Imaging.|
 
 #### Inpainting task
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
@@ -89,6 +84,11 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 |:---:|:---:|:---:|:---:| :---:| :---:| 
 | MetaSeg | ![img](https://github.com/kadirnar/segment-anything-pip/releases/download/v0.2.2/metaseg_demo.gif) |[HuggingFace](https://huggingface.co/spaces/ArtGAN/Segment-Anything-Video) |[Code](https://github.com/kadirnar/segment-anything-video) | - | SAM + Video. |
 
+#### Medical image Segmentation task
+| Title | Presentation|  Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:| 
+| SAM in Napari |[Video](https://www.youtube.com/watch?v=OPE1Xnw487E)|- |[Code](https://github.com/MIC-DKFZ/napari-sam) | - | Segment anything with our Napari integration of SAM.|
+| SAM Medical Imaging |[img](https://miro.medium.com/v2/resize:fit:720/format:webp/1*_0vvAXd8LnMu2t0rEt5a0Q.png)|- |[Code](https://github.com/amine0110/SAM-Medical-Imaging) | - | SAM for Medical Imaging.|
 
 #### Remote Sensing task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
