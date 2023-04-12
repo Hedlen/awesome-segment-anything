@@ -5,7 +5,8 @@
 
 If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆️. Thanks.
 
-```News
+```
+News
 - 2023.4.12: An initial version of add recent papers or projects.
 ```
 
