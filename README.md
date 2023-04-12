@@ -1,7 +1,7 @@
 
 <div align="center">
 <br>
-<image src="./imgs/teaser.png", width="1000px", height="487px">
+<image src="./imgs/teaser.png", width="500px", height="287px">
 <br>
 </div>
 <!-- ![img](./imgs/teaser.png) -->
@@ -13,6 +13,8 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 
 ## News
 ```
+
+- 2023.4.12: Add some presentation.
 - 2023.4.12: An initial version of add recent papers or projects.
 ```
 
