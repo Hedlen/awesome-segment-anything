@@ -88,7 +88,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:| 
 | SAM in Napari |[Video](https://www.youtube.com/watch?v=OPE1Xnw487E)|- |[Code](https://github.com/MIC-DKFZ/napari-sam) | - | Segment anything with our Napari integration of SAM.|
-| SAM Medical Imaging |[img](https://miro.medium.com/v2/resize:fit:720/format:webp/1*_0vvAXd8LnMu2t0rEt5a0Q.png)|- |[Code](https://github.com/amine0110/SAM-Medical-Imaging) | - | SAM for Medical Imaging.|
+| SAM Medical Imaging |![img](https://miro.medium.com/v2/resize:fit:720/format:webp/1*_0vvAXd8LnMu2t0rEt5a0Q.png)|- |[Code](https://github.com/amine0110/SAM-Medical-Imaging) | - | SAM for Medical Imaging.|
 
 #### Remote Sensing task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
