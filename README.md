@@ -58,7 +58,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 #### Medical image Segmentation task
 | Title | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| 
-| SAM in Napari | ![video](https://www.youtube.com/watch?v=OPE1Xnw487E)|- |[Code](https://github.com/MIC-DKFZ/napari-sam) | - | Segment anything with our Napari integration of SAM.|
+| SAM in Napari | <video src="https://www.youtube.com/watch?v=OPE1Xnw487E" width="640" height="360" controls></video>|- |[Code](https://github.com/MIC-DKFZ/napari-sam) | - | Segment anything with our Napari integration of SAM.|
 
 #### Inpainting task
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
