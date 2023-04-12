@@ -64,13 +64,13 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 | Title | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| 
 | SegAnythingPro | - |[Code](https://github.com/jinfagang/Disappear) | - | SAM + Inpainting/Replacing.|
-| Inpaint Anything | - |[Code](https://github.com/geekyutao/Inpaint-Anything) | - | SAM Meets Image Inpainting.|
+| Inpaint Anything | ![img1](https://github.com/geekyutao/Inpaint-Anything/blob/main/example/fill-anything/sample4/with_points.png)![img2](https://github.com/geekyutao/Inpaint-Anything/blob/main/example/fill-anything/sample4/with_mask.png)![img3](https://github.com/geekyutao/Inpaint-Anything/blob/main/example/fill-anything/sample4/filled_with_mask.png)|- |[Code](https://github.com/geekyutao/Inpaint-Anything) | - | SAM Meets Image Inpainting.|
 
 #### Image Generation task
-| Title | Project page | Code base | Affiliation| Description|
-|:---:|:---:|:---:|:---:| :---:| 
-| Edit Anything | - |[Code](https://github.com/sail-sg/EditAnything) | - | Edit and Generate Anything in an image. |
-| Image Edit Anything | - |[Code](https://github.com/feizc/IEA) | - | Using stable diffusion and segmentation anything models for image editing.|
+| Title | Presentation| Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:| 
+| Edit Anything | ![img](https://github.com/sail-sg/EditAnything/blob/main/images/edit_sample1.jpg) | - |[Code](https://github.com/sail-sg/EditAnything) | - | Edit and Generate Anything in an image. |
+| Image Edit Anything |![img](https://user-images.githubusercontent.com/37614046/230707537-206c0714-de32-41cd-a277-203fd57cd300.png)| - |[Code](https://github.com/feizc/IEA) | - | Using stable diffusion and segmentation anything models for image editing.|
 
 #### Video Segmention task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
