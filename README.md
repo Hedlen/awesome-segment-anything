@@ -1,4 +1,4 @@
-
+![image](./imgs/teaser.pdf)
 # Awesome Segment Anything [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 "Segment Anything" has led to a new breakthrough in the field of computer vision (CV), and this repository will continue to track and summarize the research progress of "Segment Anything" in various fields, including Papers/Projects/Demo, etc. 
 
@@ -23,7 +23,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 ### Basemodel
 | Title |Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
-| CLIP | [arXiv](https://arxiv.org/abs/2103.00020) | - | [Code](https://github.com/openai/CLIP) | OPENAI | CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet.| 
+| CLIP | [arXiv](https://arxiv.org/abs/2103.00020) | - | [Code](https://github.com/openai/CLIP) | OPENAI | CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs.| 
 | OWL-ViT | [ECCV2022](https://arxiv.org/abs/2205.06230) | - | [Code](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) | Google | A open-vocabulary object detector. Given an image and a free-text query, it finds objects matching that query in the image. It can also do one-shot object detection.| 
 | Painter | [CVPR2023](https://arxiv.org/abs/2212.02499) | - | [Code](https://github.com/baaivision/Painter) | BAAI | A Generalist Painter for In-Context Visual Learning.| 
 | Grounding DINO | [arXiv](https://arxiv.org/abs/2303.05499) | [Colab](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-grounding-dino.ipynb) &[Huggingface](https://huggingface.co/spaces/ShilongLiu/Grounding_DINO_demo) | [Code](https://github.com/IDEA-Research/GroundingDINO) | IDEA | A stronger open-set object detector|
@@ -48,7 +48,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 | SAM-Clip | - |[Code](https://github.com/Curt-Park/segment-anything-with-clip) | - | Classify the output masks of segment-anything with the off-the-shelf CLIP models.| 
 | Prompt Segment Anything | - | [Code](https://github.com/RockeyCoss/Prompt-Segment-Anything)| - | An implementation of zero-shot instance segmentation using Segment Anything.|
 | RefSAM | - |[Code](https://github.com/helblazer811/RefSAM) | - | Evaluating the basic performance of SAM on the Referring Image Segmementation task.| 
-| SAM-RBox | - |[Code](https://github.com/Li-Qingyun/sam-mmrotate) | - | This is an implementation of SAM (Segment Anything Model) for generating rotated bounding boxes with MMRotate.|
+| SAM-RBox | - |[Code](https://github.com/Li-Qingyun/sam-mmrotate) | - | This is an implementation of SAM for generating rotated bounding boxes with MMRotate.|
 | Open Vocabulary Segment Anything | - |[Code](https://github.com/ngthanhtin/owlvit_segment_anything) | - | An interesting demo by combining OWL-ViT of Google and Segment Anything of Meta.|
 | SegDrawer | - |[Code](https://github.com/lujiazho/SegDrawer) | - | Simple static web-based mask drawer, supporting semantic drawing with SAM. |
 | Annotation Anything Pipeline | - |[Code](https://github.com/Yuqifan1117/Annotation-anything-pipeline) | - | Combining GPT and SAM. Annotation anything just all in one-pipeline.|
@@ -61,8 +61,8 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 #### Inpainting task
 | Title | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| 
-| SegAnythingPro | - |[Code](https://github.com/jinfagang/Disappear) | - | Apply SOTA techniques to make amazing visual effect such as inpainting, replacing etc.|
-| Inpaint Anything | - |[Code](https://github.com/geekyutao/Inpaint-Anything) | - | Apply SOTA techniques to make amazing visual effect such as inpainting, replacing etc.|
+| SegAnythingPro | - |[Code](https://github.com/jinfagang/Disappear) | - | SAM + Inpainting/Replacing.|
+| Inpaint Anything | - |[Code](https://github.com/geekyutao/Inpaint-Anything) | - | SAM Meets Image Inpainting.|
 
 #### Image Generation task
 | Title | Project page | Code base | Affiliation| Description|
