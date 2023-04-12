@@ -11,8 +11,8 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 ## Contents
 
 - [Basemodel](#basemodel) 
-- [Derivative Papers](#derivativepapers) 
-- [Derivative Projects](#derivativeprojects) 
+- [Derivative Papers](#derivative_papers) 
+- [Derivative Projects](#derivative_projects) 
 
 ## Papers/Projects
 ### Basemodel
