@@ -98,7 +98,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 #### Moving Object Detection task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:| 
-| Moving Object Setection | ![img](https://camo.githubusercontent.com/cd073471951017a15cd445062d196242a446eb20acd90b2afa1728f239465fc7/687474703a2f2f7777772e616368616c646176652e636f6d2f70726f6a656374732f616e797468696e672d746861742d6d6f7665732f766964656f732f5a584e36412d747261636b65642d776974682d6f626a6563746e6573732d7472696d6d65642e676966) | - |[Code](https://github.com/achalddave/segment-any-moving) | - | SAM + Moving Object Detection. |
+| Moving Object Detection | ![img](https://camo.githubusercontent.com/cd073471951017a15cd445062d196242a446eb20acd90b2afa1728f239465fc7/687474703a2f2f7777772e616368616c646176652e636f6d2f70726f6a656374732f616e797468696e672d746861742d6d6f7665732f766964656f732f5a584e36412d747261636b65642d776974682d6f626a6563746e6573732d7472696d6d65642e676966) | - |[Code](https://github.com/achalddave/segment-any-moving) | - | SAM + Moving Object Detection. |
 
 ## License
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
