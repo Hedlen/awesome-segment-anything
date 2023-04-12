@@ -15,9 +15,9 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 - [Derivative Projects](#derivativeprojects) 
 
 ## Papers/Projects
-#### Basemodel Papers
+#### Basemodel
 | Title |Paper page | Project page | Code base | Affiliation| Description|
-|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+|:---:|:---:|:---:|:---:| :---:| :---:|
 | CLIP | [arXiv](https://arxiv.org/abs/2103.00020) | - | [Code](https://github.com/openai/CLIP) | OPENAI | CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet. | 
 | OWL-ViT | [ECCV2022](https://arxiv.org/abs/2205.06230) | - | [Code](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) | Google | A open-vocabulary object detector. Given an image and a free-text query, it finds objects matching that query in the image. It can also do one-shot object detection | 
 | Painter | [CVPR2023](https://arxiv.org/abs/2212.02499) | - | [Code](https://github.com/baaivision/Painter) | BAAI | A Generalist Painter for In-Context Visual Learning | 
@@ -49,8 +49,9 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 | Annotation Anything Pipeline | - |[Code](https://github.com/Yuqifan1117/Annotation-anything-pipeline) | - | Combining GPT and SAM. Annotation anything just all in one-pipeline. |
 
 ###### Medical image Segmentation task
+| Title | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| 
 | SAM in Napari | - |[Code](https://github.com/MIC-DKFZ/napari-sam) | - | Segment anything with our Napari integration of SAM . |
-
 
 ###### Inpainting task
 | Title | Project page | Code base | Affiliation| Description|
