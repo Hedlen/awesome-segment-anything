@@ -15,7 +15,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 - [Derivative Projects](#derivativeprojects) 
 
 ## Papers/Projects
-#### Basemodel
+### Basemodel
 | Title |Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
 | CLIP | [arXiv](https://arxiv.org/abs/2103.00020) | - | [Code](https://github.com/openai/CLIP) | OPENAI | CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet. | 
@@ -25,14 +25,14 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 | Segment Anything | [arXiv](https://arxiv.org/abs/2304.02643) | [Project page](https://segment-anything.com/) | [Code](https://github.com/facebookresearch/segment-anything) | Meta | A stronger Large model which can be used to generate masks for all objects in an image | 
 | SegGPT | [arXiv](https://arxiv.org/abs/2304.03284) | [Project page](https://huggingface.co/spaces/BAAI/SegGPT) | [Code](https://github.com/baaivision/Painter) | BAAI | Segmenting Everything In Context based on Painter |
 
-#### Derivative Papers
+### Derivative Papers
 | Title |Paper page | Project page | Code base | Affiliation| Description|
-|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+|:---:|:---:|:---:|:---:| :---:| :---:|
 | Segment Anything Model (SAM) for Digital Pathology | [arXiv](https://arxiv.org/abs/2304.04155) | - | - | - | SAM model on representative segmentation tasks, including (1) tumor segmentation, (2) tissue segmentation, and (3) cell nuclei segmentation. |
 | SAMCOD | [arXiv](https://arxiv.org/abs/2304.04709) | - | [Code](https://github.com/luckybird1994/SAMCOD) | - | This paper try to ask if SAM can address the Camouflaged object detection (COD) task. |
 
-#### derivative Projects
-###### Segmetion task
+### Derivative Projects
+#### Segmetion task
 | Title | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| 
 | Grounded Segment Anything |[Unofficial demo](https://github.com/camenduru/grounded-segment-anything-colab) & [Huggingface](https://huggingface.co/spaces/yizhangliu/Grounded-Segment-Anything) | [Code](https://github.com/IDEA-Research/Grounded-Segment-Anything) | - | Combining Grounding DINO and Segment Anything| - | 
@@ -48,18 +48,18 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 | SegDrawer | - |[Code](https://github.com/lujiazho/SegDrawer) | - | Simple static web-based mask drawer, supporting semantic drawing with SAM. |
 | Annotation Anything Pipeline | - |[Code](https://github.com/Yuqifan1117/Annotation-anything-pipeline) | - | Combining GPT and SAM. Annotation anything just all in one-pipeline. |
 
-###### Medical image Segmentation task
+#### Medical image Segmentation task
 | Title | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| 
 | SAM in Napari | - |[Code](https://github.com/MIC-DKFZ/napari-sam) | - | Segment anything with our Napari integration of SAM . |
 
-###### Inpainting task
+#### Inpainting task
 | Title | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| 
 | SegAnythingPro | - |[Code](https://github.com/jinfagang/Disappear) | - | Apply SOTA techniques to make amazing visual effect such as inpainting, replacing etc. |
 | Inpaint Anything | - |[Code](https://github.com/geekyutao/Inpaint-Anything) | - | Apply SOTA techniques to make amazing visual effect such as inpainting, replacing etc. |
 
-###### Image Generation task
+#### Image Generation task
 | Title | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| 
 | Edit Anything | - |[Code](https://github.com/sail-sg/EditAnything) | - | Edit and Generate Anything in an image. |
@@ -67,7 +67,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 
 ## References
 
-- [Ref](https://github.com/JerryX1110/awesome-segment-anything-extensions)
+- [Ref Repo](https://github.com/JerryX1110/awesome-segment-anything-extensions)
 
 ## License
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
