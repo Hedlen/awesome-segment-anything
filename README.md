@@ -18,7 +18,6 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
   - [Medical image Segmentation task](#medical-image-segmentation-task)
   - [Inpainting task](#inpainting-task)
   - [Image Generation task](#image-generation-task)
-  - 
 
 ## Papers/Projects
 ### Basemodel
