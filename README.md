@@ -1,5 +1,10 @@
 
-![img](./imgs/teaser.png)
+<div align="center">
+<br>
+<image src=./imgs/teaser.png, width="500px", height="287px">
+<br>
+</div>
+<!-- ![img](./imgs/teaser.png) -->
 # Awesome Segment Anything [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 "Segment Anything" has led to a new breakthrough in the field of computer vision (CV), and this repository will continue to track and summarize the research progress of "Segment Anything" in various fields, including Papers/Projects/Demo, etc. 
 
