@@ -1,7 +1,7 @@
 
 <div align="center">
 <br>
-<image src="./imgs/teaser.png", width="500px", height="287px">
+<image src="./imgs/teaser.png", width="1000px", height="487px">
 <br>
 </div>
 <!-- ![img](./imgs/teaser.png) -->
