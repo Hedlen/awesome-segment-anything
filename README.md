@@ -19,6 +19,7 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
   - [Medical image Segmentation task](#medical-image-segmentation-task)
   - [Inpainting task](#inpainting-task)
   - [Image Generation task](#image-generation-task)
+  - [Video Segmentation task](#video-segmantation-task)
 
 ## Papers/Projects
 ### Basemodel
@@ -70,6 +71,11 @@ If you find this repository helpful, please consider Starts ⭐ or Sharing ⬆�
 |:---:|:---:|:---:|:---:| :---:| 
 | Edit Anything | - |[Code](https://github.com/sail-sg/EditAnything) | - | Edit and Generate Anything in an image. |
 | Image Edit Anything | - |[Code](https://github.com/feizc/IEA) | - | Using stable diffusion and segmentation anything models for image editing.|
+
+#### Video Segmention task
+| Title | Presentation| Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:| 
+| MetaSeg | ![img](https://github.com/kadirnar/segment-anything-pip/releases/download/v0.2.2/metaseg_demo.gif) |[HuggingFace](https://huggingface.co/spaces/ArtGAN/Segment-Anything-Video) |[Code](https://github.com/kadirnar/segment-anything-video) | - | SAM + Video. |
 
 ## References
 
