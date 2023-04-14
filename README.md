@@ -14,7 +14,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ## News
 ```
 - 2023.4.12: Add some presentation.
-- 2023.4.12: An initial version of add recent papers or projects.
+- 2023.4.12: An initial version of recent papers or projects.
 ```
 
 ## Contents
@@ -26,9 +26,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Video Segmentation task](#video-segmantation-task)
   - [Medical image Segmentation task](#medical-image-segmentation-task)
   - [Inpainting task](#inpainting-task)
+  - [3D task](#3d-task)
   - [Image Generation task](#image-generation-task)
   - [Remote Sensing task](#remote-sensing-task)
   - [Moving Object Detection task](#moving-object-detection-task)
+  - [OCR task](#ocr-task)
 
 ## Papers/Projects
 ### Basemodel
@@ -65,6 +67,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Annotation Anything Pipeline |![img](https://user-images.githubusercontent.com/48062034/231222391-5423f45c-6133-45f0-81b1-be0cdaeda545.png) | [YoutubeDemo](https://www.youtube.com/watch?v=5iQSGL7ebXE) |[Code](https://github.com/vietanhdev/anylabeling) | - | SAM + Labelme + LabelImg + Auto-labeling.|
 | AnyLabel |![img](https://user-images.githubusercontent.com/18329471/231320488-2f8133bc-6b51-48f8-82a6-dd3b267f5156.png) | - |[Code](https://github.com/Yuqifan1117/Annotation-anything-pipeline) | - | GPT + SAM.|
 | Roboflow Annotate |![roboflow-sam-optimized-faster](https://user-images.githubusercontent.com/870796/231834341-b0674467-ddc9-4996-b5ae-2d40dcc22409.gif) | - |[Blog](https://blog.roboflow.com/label-data-segment-anything-model-sam/) & [App](https://app.roboflow.com) | Roboflow | SAM-assisted labeling for training computer vision models.|
+| SALT |![img](https://github.com/anuragxel/salt/raw/main/assets/how-it-works.gif) | - |[Code](https://github.com/anuragxel/salt) | - | A tool that adds a basic interface for image labeling and saves the generated masks in COCO format.]
+
 
 #### Video Segmention task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
@@ -83,6 +87,13 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | SegAnythingPro | ![img](https://camo.githubusercontent.com/7d5fb67ffcd6c209cf22ffe302d95b3b46d36b92116fe216022bf2a359c4b588/68747470733a2f2f6a6968756c61622e636f6d2f676f646c792f666765722f2d2f7261772f6d61696e2f696d616765732f323032332f30342f31315f31325f345f34325f32303233303431313132303433392e706e67)|- |[Code](https://github.com/jinfagang/Disappear) | - | SAM + Inpainting/Replacing.|
 | Inpaint Anything | ![img1](./imgs/ia.png)|- |[Code](https://github.com/geekyutao/Inpaint-Anything) | - | SAM + Inpainting.|
 
+#### 3D task
+| Title | Presentation|  Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:| 
+| 3D-Box | ![img](https://github.com/dvlab-research/3D-Box-Segment-Anything/raw/main/images/sam-voxelnext.png)|- |[Code](https://github.com/dvlab-research/3D-Box-Segment-Anything) | - | SAM is extended to 3D perception by combining it with VoxelNeXt.|
+| Anything 3DNovel View | ![img](https://github.com/Anything-of-anything/Anything-3D/raw/main/novel-view/assets/1.jpeg)|- |[Code](https://github.com/Anything-of-anything/Anything-3D) | - | SAM + [Zero 1-to-3](https://github.com/cvlab-columbia/zero123).|
+| Any 3DFace | ![img](https://github.com/Anything-of-anything/Anything-3D/raw/main/AnyFace3D/assets/celebrity_selfie/mask_2.jpg)![img](https://github.com/Anything-of-anything/Anything-3D/raw/main/AnyFace3D/assets/celebrity_selfie/2.gif)|- |[Code](https://github.com/Anything-of-anything/Anything-3D) | - | SAM + [HRN](https://younglbw.github.io/HRN-homepage/).|
+
 #### Image Generation task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:| 
@@ -99,6 +110,12 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation| Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:| 
 | Moving Object Detection | ![img](https://camo.githubusercontent.com/cd073471951017a15cd445062d196242a446eb20acd90b2afa1728f239465fc7/687474703a2f2f7777772e616368616c646176652e636f6d2f70726f6a656374732f616e797468696e672d746861742d6d6f7665732f766964656f732f5a584e36412d747261636b65642d776974682d6f626a6563746e6573732d7472696d6d65642e676966) | - |[Code](https://github.com/achalddave/segment-any-moving) | - | SAM + Moving Object Detection. |
+
+
+#### OCR task
+| Title | Presentation| Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:| 
+| OCR-SAM | ![img](https://github.com/yeungchenwa/OCR-SAM/raw/main/imgs/sam_vis.png) | [Blog](https://www.zhihu.com/question/593914819/answer/2976012032)|[Code](https://github.com/yeungchenwa/OCR-SAM) | - | Optical Character Recognition with SAM. |
 
 ## License
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
