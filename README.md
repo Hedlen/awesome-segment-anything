@@ -13,7 +13,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## News
 ```
-- 2023.4.12: Add some presentation.
+- 2023.4.12: Add some presentations.
 - 2023.4.12: An initial version of recent papers or projects.
 ```
 
