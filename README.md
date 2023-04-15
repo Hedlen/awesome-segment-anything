@@ -48,6 +48,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | Segment Anything Model (SAM) for Digital Pathology | ![img](./imgs/samdp.png) | [arXiv](https://arxiv.org/abs/2304.04155) | - | - | - | SAM + Tumor segmentation/Tissue segmentation/Cell nuclei segmentation. |
 | SAMCOD | - | [arXiv](https://arxiv.org/abs/2304.04709) | - | [Code](https://github.com/luckybird1994/SAMCOD) | - | SAM + Camouflaged object detection (COD) task.|
+| Segment Anything Is Not Always Perfect | ![img](./imgs/sainap.png) | [arXiv](https://arxiv.org/pdf/2304.05750.pdf) | - | - | Samsung | This paper analyze and discuss the benefits and limitations of SAM.|
 
 ### Derivative Projects
 #### Image Segmentation task
