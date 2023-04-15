@@ -121,7 +121,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | OCR-SAM | ![img](https://github.com/yeungchenwa/OCR-SAM/raw/main/imgs/sam_vis.png) | [Blog](https://www.zhihu.com/question/593914819/answer/2976012032)|[Code](https://github.com/yeungchenwa/OCR-SAM) | - | Optical Character Recognition with SAM. |
 
 ## Acknowledgement
-Most of the presentation in this repository are borrowed from the original author, and we would like to express our gratitude.
+Some of the presentations in this repository are borrowed from the original author, and we are very thankful for their contribution.
 
 ## License
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
