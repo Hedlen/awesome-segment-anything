@@ -54,7 +54,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Derivative Projects
 #### Image Segmentation task
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
-|:---:|:---:|:---:|:---:| :---:| :---:| 
+|:---:|:---:|:---:|:---:| :---:| :---:|
+| CLIP_Surgery | ![img](https://github.com/xmed-lab/CLIP_Surgery/raw/master/figs/fig4.jpg)|[Demo](https://github.com/camenduru/grounded-segment-anything-colab)| [Code](https://github.com/xmed-lab/CLIP_Surgery) | - | This work about SAM based on CLIP's explainability to achieve text to mask without manual points.| - | 
 | Grounded Segment Anything | ![img](https://github.com/IDEA-Research/Grounded-Segment-Anything/raw/main/assets/acoustics/gsam_whisper_inpainting_demo.png)|[Colab](https://github.com/camenduru/grounded-segment-anything-colab) & [Huggingface](https://huggingface.co/spaces/yizhangliu/Grounded-Segment-Anything) | [Code](https://github.com/IDEA-Research/Grounded-Segment-Anything) | - | Combining Grounding DINO and Segment Anything| - | 
 | GroundedSAM Anomaly Detection | ![img](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection/raw/master/assets/framework.png) | - | [Code](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)| - | Grounding DINO + SAM to segment any anomaly. |
 | Semantic Segment Anything | ![img](https://github.com/fudan-zvg/Semantic-Segment-Anything/raw/main/figures/sa_225091_class_name.png) |- | [Code](https://github.com/fudan-zvg/Semantic-Segment-Anything) | Fudan | A dense category annotation engine. |
