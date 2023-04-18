@@ -76,7 +76,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | SAM U Specify |![img](./imgs/sus.png) | - |[Code](https://github.com/MaybeShewill-CV/segment-anything-u-specify) | - | Use SAM and CLIP model to segment unique instances you want.]
 
 
-#### Video Segmention task
+#### Video Segmentation task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:| 
 | MetaSeg | ![img](https://github.com/kadirnar/segment-anything-pip/releases/download/v0.2.2/metaseg_demo.gif) |[HuggingFace](https://huggingface.co/spaces/ArtGAN/Segment-Anything-Video) |[Code](https://github.com/kadirnar/segment-anything-video) | - | SAM + Video. |
