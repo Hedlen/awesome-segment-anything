@@ -13,6 +13,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## News
 ```
+- 2023.4.18: Add two nice job Inpainting Anything and SAM-Track.
 - 2023.4.12: Add some presentations.
 - 2023.4.12: An initial version of recent papers or projects.
 ```
@@ -79,6 +80,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation| Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:| 
 | MetaSeg | ![img](https://github.com/kadirnar/segment-anything-pip/releases/download/v0.2.2/metaseg_demo.gif) |[HuggingFace](https://huggingface.co/spaces/ArtGAN/Segment-Anything-Video) |[Code](https://github.com/kadirnar/segment-anything-video) | - | SAM + Video. |
+| SAM-Track | [Video](https://www.youtube.com/watch?v=UPhtpf1k6HA&feature=youtu.be&themeRefresh=1) |[YoutubeDemo](https://www.youtube.com/watch?v=Xyd54AngvV8) |[Code](https://github.com/z-x-yang/Segment-and-Track-Anything) | - | This project, which is based on SAM and DeAOT, focuses on segmenting and tracking objects in videos. |
 
 #### Medical image Segmentation task
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
