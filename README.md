@@ -74,7 +74,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Roboflow Annotate |![roboflow-sam-optimized-faster](https://user-images.githubusercontent.com/870796/231834341-b0674467-ddc9-4996-b5ae-2d40dcc22409.gif) | - |[Blog](https://blog.roboflow.com/label-data-segment-anything-model-sam/) & [App](https://app.roboflow.com) | Roboflow | SAM-assisted labeling for training computer vision models.|
 | SALT |![img](https://github.com/anuragxel/salt/raw/main/assets/how-it-works.gif) | - |[Code](https://github.com/anuragxel/salt) | - | A tool that adds a basic interface for image labeling and saves the generated masks in COCO format.]
 | SAM U Specify |![img](./imgs/sus.png) | - |[Code](https://github.com/MaybeShewill-CV/segment-anything-u-specify) | - | Use SAM and CLIP model to segment unique instances you want.]
-| SAM web UI |![img](https://github.com/Kingfish404/segment-anything-webui/raw/main/assets/demo.gif) | - |[Code](https://github.com/Kingfish404/segment-anything-webui/) | - | This is a new web interface for the SAM.]
+| SAM web UI |![img](https://github.com/Kingfish404/segment-anything-webui/raw/main/assets/demo.gif) | [App](https://segment-anything-webui.vercel.app/) |[Code](https://github.com/Kingfish404/segment-anything-webui/) | - | This is a new web interface for the SAM.]
 
 
 #### Video Segmentation task
