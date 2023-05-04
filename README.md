@@ -13,6 +13,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## News
 ```
+- 2923.5.4: Add SEEM paper.
 - 2023.4.18: Add two nice job Inpainting Anything and SAM-Track.
 - 2023.4.12: Add some presentations.
 - 2023.4.12: An initial version of recent papers or projects.
@@ -44,6 +45,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Grounding DINO | ![img](https://github.com/IDEA-Research/GroundingDINO/raw/main/.asset/hero_figure.png)| [arXiv](https://arxiv.org/abs/2303.05499) | [Colab](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-grounding-dino.ipynb) &[Huggingface](https://huggingface.co/spaces/ShilongLiu/Grounding_DINO_demo) | [Code](https://github.com/IDEA-Research/GroundingDINO) | IDEA | A stronger open-set object detector|
 | Segment Anything | ![img](https://github.com/facebookresearch/segment-anything/raw/main/assets/model_diagram.png?raw=true)![img](https://github.com/facebookresearch/segment-anything/raw/main/assets/masks2.jpg?raw=true)| [arXiv](https://arxiv.org/abs/2304.02643) | [Project page](https://segment-anything.com/) | [Code](https://github.com/facebookresearch/segment-anything) | Meta | A stronger Large model which can be used to generate masks for all objects in an image.| 
 | SegGPT | ![img](https://github.com/baaivision/Painter/raw/main/SegGPT/seggpt_teaser.png)| [arXiv](https://arxiv.org/abs/2304.03284) | [Project page](https://huggingface.co/spaces/BAAI/SegGPT) | [Code](https://github.com/baaivision/Painter) | BAAI | Segmenting Everything In Context based on Painter.|
+| Segment Everything Everywhere All at Once (SEEM) | ![img](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/raw/main/assets/teaser_new.png?raw=true) | [Code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once), [Paper](https://arxiv.org/pdf/2304.06718.pdf) |
 
 ### Derivative Papers
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
@@ -53,6 +55,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | SAMCOD | - | [arXiv](https://arxiv.org/abs/2304.04709) | - | [Code](https://github.com/luckybird1994/SAMCOD) | - | SAM + Camouflaged object detection (COD) task.|
 | Segment Anything Is Not Always Perfect | ![img](./imgs/sainap.png) | [arXiv](https://arxiv.org/pdf/2304.05750.pdf) | - | - | Samsung | This paper analyze and discuss the benefits and limitations of SAM.|
 | Inpaint Anything | ![img1](./imgs/ia.png)|[arXiv](https://arxiv.org/abs/2304.06790)| - |[Code](https://github.com/geekyutao/Inpaint-Anything) | USTC & EIT | SAM + Inpainting, which is able to remove the object smoothly.|
+
 
 ### Derivative Projects
 #### Image Segmentation task
