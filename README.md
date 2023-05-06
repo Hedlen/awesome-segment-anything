@@ -13,7 +13,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## News
 ```
-- 2923.5.4: Add SEEM paper.
+- 2023.5.4: Add SEEM paper.
 - 2023.4.18: Add two nice job Inpainting Anything and SAM-Track.
 - 2023.4.12: Add some presentations.
 - 2023.4.12: An initial version of recent papers or projects.
