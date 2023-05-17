@@ -106,6 +106,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | 3D-Box | ![img](https://github.com/dvlab-research/3D-Box-Segment-Anything/raw/main/images/sam-voxelnext.png)|- |[Code](https://github.com/dvlab-research/3D-Box-Segment-Anything) | - | SAM is extended to 3D perception by combining it with VoxelNeXt.|
 | Anything 3DNovel View | ![img](https://github.com/Anything-of-anything/Anything-3D/raw/main/novel-view/assets/1.jpeg)|- |[Code](https://github.com/Anything-of-anything/Anything-3D) | - | SAM + [Zero 1-to-3](https://github.com/cvlab-columbia/zero123).|
 | Any 3DFace | ![img](https://github.com/Anything-of-anything/Anything-3D/raw/main/AnyFace3D/assets/celebrity_selfie/mask_2.jpg)![img](https://github.com/Anything-of-anything/Anything-3D/raw/main/AnyFace3D/assets/celebrity_selfie/2.gif)|- |[Code](https://github.com/Anything-of-anything/Anything-3D) | - | SAM + [HRN](https://younglbw.github.io/HRN-homepage/).|
+| Segment Anything 3D | ![img](https://github.com/Pointcept/SegmentAnything3D/raw/main/docs/0.png) | - | [Code](https://github.com/Pointcept/SegmentAnything3D) | Pointcept | Extending Segment Anything to 3D perception by transferring the segmentation information of 2D images to 3D space|
 
 #### Image Generation task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
