@@ -13,7 +13,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## News
 ```
-- 2023.5.4: Add SEEM paper.
+- 2023.5.4: Add SEEM.
 - 2023.4.18: Add two nice job Inpainting Anything and SAM-Track.
 - 2023.4.12: Add some presentations.
 - 2023.4.12: An initial version of recent papers or projects.
@@ -57,6 +57,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Inpaint Anything | ![img1](./imgs/ia.png)|[arXiv](https://arxiv.org/abs/2304.06790)| - |[Code](https://github.com/geekyutao/Inpaint-Anything) | USTC & EIT | SAM + Inpainting, which is able to remove the object smoothly.|
 | PerSAM | ![img](https://github.com/ZrrSkywalker/Personalize-SAM/blob/main/figs/fig_persam.png) | [arXiv](https://arxiv.org/abs/2305.03048) | [Project Page](https://huggingface.co/papers/2305.03048) | [Code](https://github.com/ZrrSkywalker/Personalize-SAM) | - |Segment Anything with specific concepts |
 | Segment Anything in Medical Images | ![img1](./imgs/sami.png)|[arXiv](https://arxiv.org/pdf/2304.12306.pdf)| - |[Code](https://github.com/bowang-lab/MedSAM) | - | A step-by-step tutorial with a small dataset to help you quickly utilize SAM.|
+| SAM Fails to Segment Anything? | ![img1](https://camo.githubusercontent.com/bae32a4f7f7b6cf23aafde7f574ef96544b87f59196c9aa125f93240bb178b36/68747470733a2f2f7469616e72756e2d6368656e2e6769746875622e696f2f53414d2d41646170746f722f7374617469632f696d616765732f706f6c79702e6a7067)|[arXiv](https://arxiv.org/pdf/2304.09148.pdf)| - |[Code](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) | - | SAM-adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More.|
 | Segment Anything in Video Super-resolution | ![img1](./imgs/sam_vsr.png)|[arXiv](https://arxiv.org/pdf/2305.06524.pdf)| - | - | - | The first step to use SAM for low-level vision.|
 
 ### Derivative Projects
