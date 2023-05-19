@@ -59,6 +59,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Segment Anything in Medical Images | ![img1](./imgs/sami.png)|[arXiv](https://arxiv.org/pdf/2304.12306.pdf)| - |[Code](https://github.com/bowang-lab/MedSAM) | - | A step-by-step tutorial with a small dataset to help you quickly utilize SAM.|
 | SAM Fails to Segment Anything? | ![img1](https://camo.githubusercontent.com/bae32a4f7f7b6cf23aafde7f574ef96544b87f59196c9aa125f93240bb178b36/68747470733a2f2f7469616e72756e2d6368656e2e6769746875622e696f2f53414d2d41646170746f722f7374617469632f696d616765732f706f6c79702e6a7067)|[arXiv](https://arxiv.org/pdf/2304.09148.pdf)| - |[Code](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) | - | SAM-adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More.|
 | Segment Anything in Video Super-resolution | ![img1](./imgs/sam_vsr.png)|[arXiv](https://arxiv.org/pdf/2305.06524.pdf)| - | - | - | The first step to use SAM for low-level vision.|
+| Segment Anything Model for Medical Image Analysis: an Experimental Study | ![img1](./imgs/sam_on_medical_image_study.png) | [arXiv](https://arxiv.org/pdf/2304.10517.pdf) | | | | Thorough experiments evaluating how SAM performs on 19 medical image datasets |
 
 ### Derivative Projects
 #### Image Segmentation task
