@@ -24,7 +24,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 - [Basemodel Papers](#basemodel-papers) 
 - [Derivative Papers](#derivative-papers)
-  - [Analysis and Expansion of SAM](#image-segmentation-task)
+  - [Analysis and Expansion of SAM](#analysis-and-expansion-of-sam)
   - [Medical Image Segmentation](#medical-image-segmentation)
   - [Inpainting](#inpainting)
   - [Camouflaged Object Detection](#camouflaged-object-detection)
