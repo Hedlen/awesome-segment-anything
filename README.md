@@ -112,6 +112,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | SALT |![img](https://github.com/anuragxel/salt/raw/main/assets/how-it-works.gif) | - |[Code](https://github.com/anuragxel/salt) | - | A tool that adds a basic interface for image labeling and saves the generated masks in COCO format.]
 | SAM U Specify |![img](./imgs/sus.png) | - |[Code](https://github.com/MaybeShewill-CV/segment-anything-u-specify) | - | Use SAM and CLIP model to segment unique instances you want.]
 | SAM web UI |![img](https://github.com/Kingfish404/segment-anything-webui/raw/main/assets/demo.gif) | [App](https://segment-anything-webui.vercel.app/) |[Code](https://github.com/Kingfish404/segment-anything-webui/) | - | This is a new web interface for the SAM.|
+| Finetune Anything | ![img](https://user-images.githubusercontent.com/67993288/230864865-db8810fd-9f0c-4f3e-81b1-8753b5121d03.png) | - | [Code](https://github.com/ziqi-jin/finetune-anything) | - |A class-aware one-stage tool for training fine-tuning models based on SAM.|
 
 
 #### Video Segmentation task
