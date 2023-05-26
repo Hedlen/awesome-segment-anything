@@ -91,6 +91,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | Instruct2Act | ![img1](https://github.com/OpenGVLab/Instruct2Act/raw/main/images/instruct2act_framework.png)|[arXiv](https://arxiv.org/pdf/2305.11176.pdf)| - | [Code](https://github.com/OpenGVLab/Instruct2Act) | OpenGVLab | A SAM application in the Robotic field.|
 
+#### Bioinformatics
+| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| IAMSAM | ![img1](https://github.com/portrai-io/IAMSAM/blob/main/assets/screenshot.png)|[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.25.542052v1)| - | [Code](https://github.com/portrai-io/IAMSAM) | Portrai Inc. | A SAM application for the analysis of Spatial Transcriptomics|  
+  
 ### Derivative Projects
 #### Image Segmentation task
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
