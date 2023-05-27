@@ -30,6 +30,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Camouflaged Object Detection](#camouflaged-object-detection)
   - [Low Level](#low-level)
   - [Robotic](#robotic)
+  - [Bioinformatics](#bioinformatics)
 - [Derivative Projects](#derivative-projects) 
   - [Image Segmentation task](#image-segmentation-task)
   - [Video Segmentation task](#video-segmentation-task)
