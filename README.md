@@ -41,6 +41,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Remote Sensing task](#remote-sensing-task)
   - [Moving Object Detection task](#moving-object-detection-task)
   - [OCR task](#ocr-task)
+- [front-end framework](#front-end-framework)
+   - [JS SDK for SAM](#samjs)
 
 ## Papers/Projects
 ### Basemodel Papers
@@ -170,6 +172,13 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation| Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:| 
 | OCR-SAM | ![img](https://github.com/yeungchenwa/OCR-SAM/raw/main/imgs/sam_vis.png) | [Blog](https://www.zhihu.com/question/593914819/answer/2976012032)|[Code](https://github.com/yeungchenwa/OCR-SAM) | - | Optical Character Recognition with SAM. |
+
+### front-end framework
+
+#### SAMJS
+| Title | Presentation| Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:| 
+| SAMJS | ![samjs](https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*6rjpTIjg4cUAAAAAAAAAAAAADmJ7AQ/original) | [demo](http://samjs.antv.vision/demos)|[Code](https://github.com/antvis/SAMJS) | - | JS SDK for SAM, Support remote sensing data segmentation and vectorization|
 
 ## Acknowledgement
 Some of the presentations in this repository are borrowed from the original author, and we are very thankful for their contribution.
