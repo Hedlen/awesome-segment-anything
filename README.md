@@ -66,6 +66,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Segment Anything Is Not Always Perfect | ![img](./imgs/sainap.png) | [arXiv](https://arxiv.org/pdf/2304.05750.pdf) | - | - | Samsung | This paper analyze and discuss the benefits and limitations of SAM.|
 | PerSAM | ![img](https://github.com/ZrrSkywalker/Personalize-SAM/blob/main/figs/fig_persam.png) | [arXiv](https://arxiv.org/abs/2305.03048) | [Project Page](https://huggingface.co/papers/2305.03048) | [Code](https://github.com/ZrrSkywalker/Personalize-SAM) | - |Segment Anything with specific concepts |
 | Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching | ![img1](https://github.com/aim-uofa/Matcher/blob/main/figs/framework.png) | [arXiv](https://arxiv.org/abs/2305.13310) | - | [Code](https://github.com/aim-uofa/Matcher) | - | One shot semantic segmentation by integrating an all-purpose feature extraction model and a class-agnostic segmentation model |
+| Segment Anything in High Quality | ![img](./imgs/HQ-SAM.png) | [arXiv](https://arxiv.org/pdf/2306.01567.pdf) | [Project Page](https://huggingface.co/papers/2306.01567) | - | ETH Zürich & HKUST | HQ-SAM: improve segmentation quality of SAM using learnable High-Quality Output Token |
   
 #### Medical Image Segmentation
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
