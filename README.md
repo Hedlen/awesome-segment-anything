@@ -13,6 +13,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## News
 ```
+- 2023.6.19: Update some recent papers.
 - 2023.5.20: Update document structure and add a robotic-related article. Happy 520 Day！
 - 2023.5.4: Add SEEM.
 - 2023.4.18: Add two nice job Inpainting Anything and SAM-Track.
@@ -31,7 +32,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Low Level](#low-level)
   - [Robotic](#robotic)
   - [Bioinformatics](#bioinformatics)
-  - [3D Point Cloud](3d-point-cloud)
+  - [3D Point Cloud](#3d-point-cloud)
 - [Derivative Projects](#derivative-projects) 
   - [Image Segmentation task](#image-segmentation-task)
   - [Video Segmentation task](#video-segmentation-task)
