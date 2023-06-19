@@ -31,6 +31,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Low Level](#low-level)
   - [Robotic](#robotic)
   - [Bioinformatics](#bioinformatics)
+  - [3D Point Cloud](3d-point-cloud)
 - [Derivative Projects](#derivative-projects) 
   - [Image Segmentation task](#image-segmentation-task)
   - [Video Segmentation task](#video-segmentation-task)
@@ -102,6 +103,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | IAMSAM | ![img1](https://github.com/portrai-io/IAMSAM/blob/main/assets/screenshot.png)|[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.25.542052v1)| - | [Code](https://github.com/portrai-io/IAMSAM) | Portrai Inc. | A SAM application for the analysis of Spatial Transcriptomics|  
   
+#### 3D Point Cloud
+| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| Seal | ![img1](https://github.com/youquanl/Segment-Any-Point-Cloud/raw/main/docs/figs/demo.gif)|[arXiv](https://arxiv.org/abs/2306.09347)| [Page](https://ldkong.com/Seal) | [Code](https://github.com/youquanl/Segment-Any-Point-Cloud) | - | A framework capable of leveraging 2D vision foundation models for self-supervised learning on large-scale 3D point clouds.|
+
 ### Derivative Projects
 #### Image Segmentation task
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
