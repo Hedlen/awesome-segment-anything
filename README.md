@@ -32,7 +32,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Low Level](#low-level)
   - [Robotic](#robotic)
   - [Bioinformatics](#bioinformatics)
-  - [3D Point Cloud](#3d-point-cloud)
+  - [3D](#3d)
 - [Derivative Projects](#derivative-projects) 
   - [Image Segmentation task](#image-segmentation-task)
   - [Video Segmentation task](#video-segmentation-task)
@@ -108,10 +108,17 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | IAMSAM | ![img1](https://github.com/portrai-io/IAMSAM/blob/main/assets/screenshot.png)|[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.25.542052v1)| - | [Code](https://github.com/portrai-io/IAMSAM) | Portrai Inc. | A SAM application for the analysis of Spatial Transcriptomics|  
   
-#### 3D Point Cloud
+#### 3D
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | Seal | ![img1](https://github.com/youquanl/Segment-Any-Point-Cloud/raw/main/docs/figs/demo.gif)|[arXiv](https://arxiv.org/abs/2306.09347)| [Page](https://ldkong.com/Seal) | [Code](https://github.com/youquanl/Segment-Any-Point-Cloud) | - | A framework capable of leveraging 2D vision foundation models for self-supervised learning on large-scale 3D point clouds.|
+| TomoSAM | ![img](https://github.com/fsemerar/SlicerTomoSAM/raw/main/TomoSAM/Resources/Media/tomosam_screenshot_1.png) | [arXiv](https://arxiv.org/pdf/2306.08609.pdf) | [Video Tutorial](https://www.youtube.com/watch?v=4nXCYrvBSjk) | [Code](https://github.com/fsemerar/SlicerTomoSAM) | - | An extension of 3D Slicer using the SAM to aid the segmentation of 3D data from tomography or other imaging techniques. |
+
+#### Remote Sensing
+| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| RSPrompter | ![img](https://kyanchen.github.io/RSPrompter/resources/teaser.jpg) | [arXiv](https://arxiv.org/pdf/2306.16269.pdf) | [Project Page](https://kyanchen.github.io/RSPrompter/) | [Code](https://github.com/KyanChen/RSPrompter) | Beihang Universty | An automated instance segmentation approach for remote sensing images based on the SAM. |
+
 
 ### Derivative Projects
 #### Image Segmentation task
