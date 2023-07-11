@@ -29,7 +29,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Medical Image Segmentation](#medical-image-segmentation)
   - [Inpainting](#inpainting)
   - [Camouflaged Object Detection](#camouflaged-object-detection)
-  - [Low Level](#low-level)
+  - [Low Level vision](#low-level-vision)
+  - [Image Matting](#image-matting)
   - [Robotic](#robotic)
   - [Bioinformatics](#bioinformatics)
   - [3D](#3d)
@@ -92,7 +93,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | SAMCOD | - | [arXiv](https://arxiv.org/abs/2304.04709) | - | [Code](https://github.com/luckybird1994/SAMCOD) | - | SAM + Camouflaged object detection (COD) task.|
 
-#### Low Level
+#### Low Level Vision
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | Segment Anything in Video Super-resolution | ![img1](./imgs/sam_vsr.png)|[arXiv](https://arxiv.org/pdf/2305.06524.pdf)| - | - | - | The first step to use SAM for low-level vision.|
