@@ -29,7 +29,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Medical Image Segmentation](#medical-image-segmentation)
   - [Inpainting](#inpainting)
   - [Camouflaged Object Detection](#camouflaged-object-detection)
-  - [Low Level vision](#low-level-vision)
+  - [Low Level Vision](#low-level-vision)
   - [Image Matting](#image-matting)
   - [Robotic](#robotic)
   - [Bioinformatics](#bioinformatics)
