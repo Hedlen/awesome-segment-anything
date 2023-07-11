@@ -97,7 +97,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | Segment Anything in Video Super-resolution | ![img1](./imgs/sam_vsr.png)|[arXiv](https://arxiv.org/pdf/2305.06524.pdf)| - | - | - | The first step to use SAM for low-level vision.|
-| SAM-IQA | ![img1](./imgs/sam-iqa.png)|[arXiv](https://arxiv.org/pdf/2307.04455.pdf)| - | [Code]https://github.com/Hedlen/SAM-IQA | Megvii | The first to introduce the SAM in IQA and demonstrate its strong generalization ability in this domain.|
+| SAM-IQA | ![img1](./imgs/sam-iqa.png)|[arXiv](https://arxiv.org/pdf/2307.04455.pdf)| - | [Code](https://github.com/Hedlen/SAM-IQA) | Megvii | The first to introduce the SAM in IQA and demonstrate its strong generalization ability in this domain.|
 
 #### Image Matting
 |Matte Anything|![img](https://github.com/hustvl/Matte-Anything/blob/main/figs/matte-anything.png)![img](https://user-images.githubusercontent.com/74295796/244441627-d947f59d-b0c1-4c22-9967-d8f2bf633879.gif)|[arXiv](https://arxiv.org/abs/2306.04121)| - | [Code](https://github.com/hustvl/Matte-Anything)| HUST Vision Lab| An interactive natural image matting system with excellent performance for both opaque and transparent objects |
