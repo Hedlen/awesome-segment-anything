@@ -100,6 +100,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | SAM-IQA | ![img1](./imgs/sam-iqa.png)|[arXiv](https://arxiv.org/pdf/2307.04455.pdf)| - | [Code](https://github.com/Hedlen/SAM-IQA) | Megvii | The first to introduce the SAM in IQA and demonstrate its strong generalization ability in this domain.|
 
 #### Image Matting
+| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 |Matte Anything|![img](https://github.com/hustvl/Matte-Anything/blob/main/figs/matte-anything.png)![img](https://user-images.githubusercontent.com/74295796/244441627-d947f59d-b0c1-4c22-9967-d8f2bf633879.gif)|[arXiv](https://arxiv.org/abs/2306.04121)| - | [Code](https://github.com/hustvl/Matte-Anything)| HUST Vision Lab| An interactive natural image matting system with excellent performance for both opaque and transparent objects |
 | Matting Anything | ![img1](https://github.com/SHI-Labs/Matting-Anything/raw/main/assets/teaser_arxiv_v2.png) | [arXiv](https://arxiv.org/abs/2306.05399) | [Project page](https://huggingface.co/papers/2306.05399) | [Code](https://github.com/SHI-Labs/Matting-Anything) | SHI Labs | Leverage feature maps from SAM and adopts a Mask-to-Matte module to predict the alpha matte. |
 
