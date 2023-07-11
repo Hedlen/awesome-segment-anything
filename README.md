@@ -72,7 +72,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 |Detect Any Shadow: Segment Anything for Video Shadow Detection| ![img](./imgs/Detect-AnyShadow.png) | [arXiv](https://arxiv.org/pdf/2305.16698.pdf) | - | [Code](https://github.com/harrytea/Detect-AnyShadow) | University of Science and Technology of China | Use SAM to detect initial frames then use an LSTM network for subsequent frames |
 | Fast Segment Anything | ![img](https://github.com/CASIA-IVA-Lab/FastSAM/raw/main/assets/head_fig.png) | [arXiv](https://arxiv.org/pdf/2306.12156v1.pdf) | [Project Page](https://huggingface.co/spaces/An-619/FastSAM) | [Code](https://github.com/casia-iva-lab/fastsam) | - | Reformulate the architecture and improve the speed of SAM | 
 | MobileSAM (Faster Segment Anything) | ![img](https://github.com/ChaoningZhang/MobileSAM/blob/master/assets/model_diagram.jpg?raw=true) | [arXiv](https://arxiv.org/pdf/2306.14289.pdf) | [Project Page](https://huggingface.co/papers/2306.14289) | [Code](https://github.com/ChaoningZhang/MobileSAM) | Kyung Hee University | make SAM mobile-friendly by replacing the heavyweight image encoder with a lightweight one |
-  
+
+
 #### Medical Image Segmentation
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
@@ -95,6 +96,9 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | Segment Anything in Video Super-resolution | ![img1](./imgs/sam_vsr.png)|[arXiv](https://arxiv.org/pdf/2305.06524.pdf)| - | - | - | The first step to use SAM for low-level vision.|
+| SAM-IQA | ![img1](./imgs/sam-iqa.png)|[arXiv](https://arxiv.org/pdf/2307.04455.pdf)| - | [Code]https://github.com/Hedlen/SAM-IQA | Megvii | The first to introduce the SAM in IQA and demonstrate its strong generalization ability in this domain.|
+
+#### Image Matting
 |Matte Anything|![img](https://github.com/hustvl/Matte-Anything/blob/main/figs/matte-anything.png)![img](https://user-images.githubusercontent.com/74295796/244441627-d947f59d-b0c1-4c22-9967-d8f2bf633879.gif)|[arXiv](https://arxiv.org/abs/2306.04121)| - | [Code](https://github.com/hustvl/Matte-Anything)| HUST Vision Lab| An interactive natural image matting system with excellent performance for both opaque and transparent objects |
 | Matting Anything | ![img1](https://github.com/SHI-Labs/Matting-Anything/raw/main/assets/teaser_arxiv_v2.png) | [arXiv](https://arxiv.org/abs/2306.05399) | [Project page](https://huggingface.co/papers/2306.05399) | [Code](https://github.com/SHI-Labs/Matting-Anything) | SHI Labs | Leverage feature maps from SAM and adopts a Mask-to-Matte module to predict the alpha matte. |
 
