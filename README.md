@@ -87,6 +87,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | Inpaint Anything | ![img1](./imgs/ia.png)|[arXiv](https://arxiv.org/abs/2304.06790)| - |[Code](https://github.com/geekyutao/Inpaint-Anything) | USTC & EIT | SAM + Inpainting, which is able to remove the object smoothly.|
+| SAM + Stable Diffusion for Text-to-Image Inpainting | ![img1](https://www.comet.com/site/wp-content/uploads/2023/06/Screen-Shot-2023-06-19-at-2.40.49-PM.png) | - | [Project](https://www.comet.com/examples/demo-text-to-inpainting-sam-stablediffusion/view/bRnI022tXQUdKGsVCFmjFRRtT/) | [Code](https://colab.research.google.com/drive/1B7L4cork9UFTtIB02EntjiZRLYuqJS2b#scrollTo=LtZghyHoJabf) | comet | Grounding DINO + SAM + Stable Diffusion |
 
 #### Camouflaged Object Detection
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
