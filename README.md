@@ -128,6 +128,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | RSPrompter | ![img](https://kyanchen.github.io/RSPrompter/resources/teaser.jpg) | [arXiv](https://arxiv.org/pdf/2306.16269.pdf) | [Project Page](https://kyanchen.github.io/RSPrompter/) | [Code](https://github.com/KyanChen/RSPrompter) | Beihang University | An automated instance segmentation approach for remote sensing images based on the SAM. |
 
 
+#### Tracking
+
+| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| Follow Anything | ![img1](./imgs/Follow-Anything.png) | [arXiv](https://arxiv.org/abs/2308.05737) | [Page](https://huggingface.co/papers/2308.05737) | [Code](https://github.com/alaamaalouf/FollowAnything) | MIT, Harvard University | an open-vocabulary and multimodal model to detects, tracks, and follows any objects in real-time.|
 ### Derivative Projects
 #### Image Segmentation task
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
