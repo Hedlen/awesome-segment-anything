@@ -34,6 +34,9 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Robotic](#robotic)
   - [Bioinformatics](#bioinformatics)
   - [3D](#3d)
+  - [Remote Sensing](#remote-sensing)
+  - [Tracking](#tracking)
+  - [Audio-visual Localization and Segmentation](#audio-visual-ocalization-and-segmentation)
 - [Derivative Projects](#derivative-projects) 
   - [Image Segmentation task](#image-segmentation-task)
   - [Video Segmentation task](#video-segmentation-task)
@@ -67,13 +70,12 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | CLIP_Surgery | ![img](https://github.com/xmed-lab/CLIP_Surgery/raw/master/figs/fig4.jpg)| [arXiv](https://arxiv.org/pdf/2304.05653.pdf) |[Demo](https://github.com/xmed-lab/CLIP_Surgery/blob/master/demo.ipynb)| [Code](https://github.com/xmed-lab/CLIP_Surgery) | HKUST | This work about SAM based on CLIP's explainability to achieve text to mask without manual points.|
 | Segment Anything Is Not Always Perfect | ![img](./imgs/sainap.png) | [arXiv](https://arxiv.org/pdf/2304.05750.pdf) | - | - | Samsung | This paper analyzes and discusses the benefits and limitations of SAM.|
-| PerSAM | ![img](https://github.com/ZrrSkywalker/Personalize-SAM/blob/main/figs/fig_persam.png) | [arXiv](https://arxiv.org/abs/2305.03048) | [Project Page](https://huggingface.co/papers/2305.03048) | [Code](https://github.com/ZrrSkywalker/Personalize-SAM) | - |Segment Anything with specific concepts |
-| Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching | ![img1](https://github.com/aim-uofa/Matcher/blob/main/figs/framework.png) | [arXiv](https://arxiv.org/abs/2305.13310) | - | [Code](https://github.com/aim-uofa/Matcher) | - | One shot semantic segmentation by integrating an all-purpose feature extraction model and a class-agnostic segmentation model |
-| Segment Anything in High Quality |![img](./imgs/HQ-SAM.png) | [arXiv](https://arxiv.org/pdf/2306.01567.pdf) | [Project Page](https://huggingface.co/papers/2306.01567) | - | ETH Zürich & HKUST | HQ-SAM: improve segmentation quality of SAM using learnable High-Quality Output Token |
-|Detect Any Shadow: Segment Anything for Video Shadow Detection| ![img](./imgs/Detect-AnyShadow.png) | [arXiv](https://arxiv.org/pdf/2305.16698.pdf) | - | [Code](https://github.com/harrytea/Detect-AnyShadow) | University of Science and Technology of China | Use SAM to detect initial frames then use an LSTM network for subsequent frames |
-| Fast Segment Anything | ![img](https://github.com/CASIA-IVA-Lab/FastSAM/raw/main/assets/head_fig.png) | [arXiv](https://arxiv.org/pdf/2306.12156v1.pdf) | [Project Page](https://huggingface.co/spaces/An-619/FastSAM) | [Code](https://github.com/casia-iva-lab/fastsam) | - | Reformulate the architecture and improve the speed of SAM | 
-| MobileSAM (Faster Segment Anything) | ![img](https://github.com/ChaoningZhang/MobileSAM/blob/master/assets/model_diagram.jpg?raw=true) | [arXiv](https://arxiv.org/pdf/2306.14289.pdf) | [Project Page](https://huggingface.co/papers/2306.14289) | [Code](https://github.com/ChaoningZhang/MobileSAM) | Kyung Hee University | make SAM mobile-friendly by replacing the heavyweight image encoder with a lightweight one |
-
+| PerSAM | ![img](https://github.com/ZrrSkywalker/Personalize-SAM/blob/main/figs/fig_persam.png) | [arXiv](https://arxiv.org/abs/2305.03048) | [Project Page](https://huggingface.co/papers/2305.03048) | [Code](https://github.com/ZrrSkywalker/Personalize-SAM) | - |Segment Anything with specific concepts. |
+| Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching | ![img1](https://github.com/aim-uofa/Matcher/blob/main/figs/framework.png) | [arXiv](https://arxiv.org/abs/2305.13310) | - | [Code](https://github.com/aim-uofa/Matcher) | - | One shot semantic segmentation by integrating an all-purpose feature extraction model and a class-agnostic segmentation model. |
+| Segment Anything in High Quality |![img](./imgs/HQ-SAM.png) | [arXiv](https://arxiv.org/pdf/2306.01567.pdf) | [Project Page](https://huggingface.co/papers/2306.01567) | - | ETH Zürich & HKUST | HQ-SAM: improve segmentation quality of SAM using learnable High-Quality Output Token. |
+|Detect Any Shadow: Segment Anything for Video Shadow Detection| ![img](./imgs/Detect-AnyShadow.png) | [arXiv](https://arxiv.org/pdf/2305.16698.pdf) | - | [Code](https://github.com/harrytea/Detect-AnyShadow) | University of Science and Technology of China | Use SAM to detect initial frames then use an LSTM network for subsequent frames. |
+| Fast Segment Anything | ![img](https://github.com/CASIA-IVA-Lab/FastSAM/raw/main/assets/head_fig.png) | [arXiv](https://arxiv.org/pdf/2306.12156v1.pdf) | [Project Page](https://huggingface.co/spaces/An-619/FastSAM) | [Code](https://github.com/casia-iva-lab/fastsam) | - | Reformulate the architecture and improve the speed of SAM. | 
+| MobileSAM (Faster Segment Anything) | ![img](https://github.com/ChaoningZhang/MobileSAM/blob/master/assets/model_diagram.jpg?raw=true) | [arXiv](https://arxiv.org/pdf/2306.14289.pdf) | [Project Page](https://huggingface.co/papers/2306.14289) | [Code](https://github.com/ChaoningZhang/MobileSAM) | Kyung Hee University | make SAM mobile-friendly by replacing the heavyweight image encoder with a lightweight one.|
 
 #### Medical Image Segmentation
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
@@ -81,7 +83,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Segment Anything Model (SAM) for Digital Pathology | ![img](./imgs/samdp.png) | [arXiv](https://arxiv.org/abs/2304.04155) | - | - | - | SAM + Tumor segmentation/Tissue segmentation/Cell nuclei segmentation. |
 | Segment Anything in Medical Images | ![img1](./imgs/sami.png)|[arXiv](https://arxiv.org/pdf/2304.12306.pdf)| - |[Code](https://github.com/bowang-lab/MedSAM) | - | A step-by-step tutorial with a small dataset to help you quickly utilize SAM.|
 | SAM Fails to Segment Anything? | ![img1](https://camo.githubusercontent.com/bae32a4f7f7b6cf23aafde7f574ef96544b87f59196c9aa125f93240bb178b36/68747470733a2f2f7469616e72756e2d6368656e2e6769746875622e696f2f53414d2d41646170746f722f7374617469632f696d616765732f706f6c79702e6a7067)|[arXiv](https://arxiv.org/pdf/2304.09148.pdf)| - |[Code](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) | - | SAM-adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More.|
-| Segment Anything Model for Medical Image Analysis: an Experimental Study | ![img1](./imgs/sam_on_medical_image_study.png) | [arXiv](https://arxiv.org/pdf/2304.10517.pdf) | - | - | - | Thorough experiments evaluating how SAM performs on 19 medical image datasets |
+| Segment Anything Model for Medical Image Analysis: an Experimental Study | ![img1](./imgs/sam_on_medical_image_study.png) | [arXiv](https://arxiv.org/pdf/2304.10517.pdf) | - | - | - | Thorough experiments evaluating how SAM performs on 19 medical image datasets. |
+| Medical-SAM-Adapter | ![img1](https://github.com/WuJunde/Medical-SAM-Adapter/raw/main/figs/medsamadpt.jpeg) | [arXiv](https://arxiv.org/abs/2304.12620.pdf) | - | - | - | A project to fineturn SAM using Adaption for the Medical Imaging. |
 
 #### Inpainting
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
@@ -114,25 +117,39 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 #### Bioinformatics
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
-| IAMSAM | ![img1](https://github.com/portrai-io/IAMSAM/blob/main/assets/screenshot.png)|[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.25.542052v1)| - | [Code](https://github.com/portrai-io/IAMSAM) | Portrai Inc. | A SAM application for the analysis of Spatial Transcriptomics|  
+| IAMSAM | ![img1](https://github.com/portrai-io/IAMSAM/blob/main/assets/screenshot.png)|[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.25.542052v1)| - | [Code](https://github.com/portrai-io/IAMSAM) | Portrai Inc. | A SAM application for the analysis of Spatial Transcriptomics.|  
   
 #### 3D
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | Seal | ![img1](https://github.com/youquanl/Segment-Any-Point-Cloud/raw/main/docs/figs/demo.gif)|[arXiv](https://arxiv.org/abs/2306.09347)| [Page](https://ldkong.com/Seal) | [Code](https://github.com/youquanl/Segment-Any-Point-Cloud) | - | A framework capable of leveraging 2D vision foundation models for self-supervised learning on large-scale 3D point clouds.|
 | TomoSAM | ![img](https://github.com/fsemerar/SlicerTomoSAM/raw/main/TomoSAM/Resources/Media/tomosam_screenshot_1.png) | [arXiv](https://arxiv.org/pdf/2306.08609.pdf) | [Video Tutorial](https://www.youtube.com/watch?v=4nXCYrvBSjk) | [Code](https://github.com/fsemerar/SlicerTomoSAM) | - | An extension of 3D Slicer using the SAM to aid the segmentation of 3D data from tomography or other imaging techniques. |
+| SegmentAnythingin3D | ![img](https://user-images.githubusercontent.com/58475180/243306003-6135f473-3239-4721-9a79-15f7a7d11347.png) | [arXiv](https://arxiv.org/abs/2304.12308.pdf) | [Project](https://jumpat.github.io/SA3D/) | [Code](hhttps://github.com/Jumpat/SegmentAnythingin3D) | - | A novel framework to Segment Anything in 3D, named SA3D. |
 
 #### Remote Sensing
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | RSPrompter | ![img](https://kyanchen.github.io/RSPrompter/resources/teaser.jpg) | [arXiv](https://arxiv.org/pdf/2306.16269.pdf) | [Project Page](https://kyanchen.github.io/RSPrompter/) | [Code](https://github.com/KyanChen/RSPrompter) | Beihang University | An automated instance segmentation approach for remote sensing images based on the SAM. |
 
-
 #### Tracking
-
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | Follow Anything | ![img1](./imgs/Follow-Anything.png) | [arXiv](https://arxiv.org/abs/2308.05737) | [Page](https://huggingface.co/papers/2308.05737) | [Code](https://github.com/alaamaalouf/FollowAnything) | MIT, Harvard University | an open-vocabulary and multimodal model to detects, tracks, and follows any objects in real-time.|
+| Track-Anything | [Video](https://github.com/gaomingqi/Track-Anything/raw/master/assets/avengers.gif) | [arXiv](https://arxiv.org/abs/2304.11968) | - | [Code](https://github.com/gaomingqi/Track-Anything) | MIT, Harvard University | an open-vocabulary and multimodal model to detects, tracks, and follows any objects in real-time.|
+| SAM-Track | [Video](https://camo.githubusercontent.com/149f974fc6e13f3764e30d843880fa1e15e0fbecf607f905805d84290ec87155/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d6172636f6d6f6e74616c62616e6f2f696d6167652f75706c6f61642f76313638313731333039352f766964656f5f746f5f6d61726b646f776e2f696d616765732f796f75747562652d2d555068747066316b3648412d63303562353861633665623463343730303833316232623330373063643430332e6a7067) | [arXiv](https://arxiv.org/abs/2305.06558) | - | [Code](https://github.com/z-x-yang/Segment-and-Track-Anything) | MIT, Harvard University | A framework called Segment And Track Anything (SAMTrack) that allows users to precisely and effectively segment and track any object in a video.|
+
+#### Audio-visual Localization and Segmentation
+| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| AV-SAM | ![img1](./imgs/sam-av.png) | [arXiv](https://arxiv.org/pdf/2305.01836.pdf) | - | [Code](https://github.com/alaamaalouf/FollowAnything) | CMU | A simple yet effective audio-visual localization and segmentation framework based on the SAM.|
+
+#### Adversarial Attacks
+| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| Attack-SAM | - | [arXiv](https://arxiv.org/pdf/2305.00866.pdf) | - | - | KAIST | The
+first work of conduct a comprehensive investigation on how to attack SAM with adversarial
+examples.|
+
 ### Derivative Projects
 #### Image Segmentation task
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
