@@ -13,7 +13,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## News
 ```
-- 2023.8.29: Update some recent wokrs.
+- 2023.8.29: Update some recent works.
 - 2023.5.20: Update document structure and add a robotic-related article. Happy 520 Day！
 - 2023.5.4: Add SEEM.
 - 2023.4.18: Add two nice job Inpainting Anything and SAM-Track.
