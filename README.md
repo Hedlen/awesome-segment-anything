@@ -89,6 +89,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Medical-SAM-Adapter | ![img1](https://github.com/WuJunde/Medical-SAM-Adapter/raw/main/figs/medsamadpt.jpeg) | [arXiv](https://arxiv.org/abs/2304.12620.pdf) | - | - | - | A project to fineturn SAM using Adaption for the Medical Imaging. |
 | SAM-Med2d | ![img1](https://github.com/OpenGVLab/SAM-Med2D/blob/main/assets/visualization.png) | [arXiv](https://arxiv.org/abs/2308.16184) | - | [Code](https://github.com/OpenGVLab/SAM-Med2D) | Sichuan University & Shanghai AI Laboratory | The most comprehensive studies on applying SAM to medical 2D images |
 
+#### Bioimage Analysis
+| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| Segment Anything for Microscopy | ![img](https://github.com/computational-cell-analytics/micro-sam/blob/master/doc/images/lm_comparison.png) | [bioRxiv](https://doi.org/10.1101/2023.08.21.554208) | [Demo](https://computational-cell-analytics.github.io/micro-sam/micro_sam.html#installation) | [Code](https://github.com/computational-cell-analytics/micro-sam) | University of Göttingen, Germany | Segment Anything for Microscopy implements automatic and interactive annotation for microscopy data. It is built on top of Segment Anything and specializes it for microscopy and other bio-imaging data. Its core components are: <ul><li>The `micro_sam` tools for interactive data annotation with napari.</li><li>The `micro_sam` library to apply Segment Anything to 2d and 3d data or fine-tune it on your data.</li><li>The `micro_sam` models that are fine-tuned on publicly available microscopy data.</li> Our goal is to build fast and interactive annotation tools for microscopy data |
+
 #### Inpainting
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
