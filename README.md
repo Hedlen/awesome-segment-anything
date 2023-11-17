@@ -138,6 +138,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | RSPrompter | ![img](https://kyanchen.github.io/RSPrompter/resources/teaser.jpg) | [arXiv](https://arxiv.org/pdf/2306.16269.pdf) | [Project Page](https://kyanchen.github.io/RSPrompter/) | [Code](https://github.com/KyanChen/RSPrompter) | Beihang University | An automated instance segmentation approach for remote sensing images based on the SAM. |
+| SAM-CD | ![img](https://github.com/ggsDing/SAM-CD/blob/main/flowchart.png) | [arXiv](https://arxiv.org/abs/2309.01429) | - | [Code](https://github.com/ggsDing/SAM-CD) | PLA Information Engineering University | A sample-efficient change detection framework that employs SAM as the visual encoder. |
 
 #### Tracking
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
