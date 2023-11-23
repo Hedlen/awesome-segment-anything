@@ -29,6 +29,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Medical Image Segmentation](#medical-image-segmentation)
   - [Inpainting](#inpainting)
   - [Camouflaged Object Detection](#camouflaged-object-detection)
+  - [Video Frame Interpolation](#video-frame-interpolation)
   - [Low Level Vision](#low-level-vision)
   - [Image Matting](#image-matting)
   - [Robotic](#robotic)
@@ -104,6 +105,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | SAMCOD | - | [arXiv](https://arxiv.org/abs/2304.04709) | - | [Code](https://github.com/luckybird1994/SAMCOD) | - | SAM + Camouflaged object detection (COD) task.|
+
+#### Video Frame Interpolation
+| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation | ![img](https://github.com/zzh-tech/InterpAny-Clearer/blob/site/docs/static/InterpAny-Clearer-Demo-Small.gif) | [arXiv](https://arxiv.org/abs/2311.08007) | [Project Page](https://zzh-tech.github.io/InterpAny-Clearer/) & [Interactive Demo](http://ai4sports.opengvlab.com/interpany-clearer/) | [Code](https://github.com/zzh-tech/InterpAny-Clearer) | Shanghai AI Laboratory & Snap Inc. | Editable video frame interpolation with SAM. |
 
 #### Low Level Vision
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
