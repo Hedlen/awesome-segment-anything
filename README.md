@@ -79,6 +79,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Fast Segment Anything | ![img](https://github.com/CASIA-IVA-Lab/FastSAM/raw/main/assets/head_fig.png) | [arXiv](https://arxiv.org/pdf/2306.12156v1.pdf) | [Project Page](https://huggingface.co/spaces/An-619/FastSAM) | [Code](https://github.com/casia-iva-lab/fastsam) | - | Reformulate the architecture and improve the speed of SAM. | 
 | MobileSAM (Faster Segment Anything) | ![img](https://github.com/ChaoningZhang/MobileSAM/blob/master/assets/model_diagram.jpg?raw=true) | [arXiv](https://arxiv.org/pdf/2306.14289.pdf) | [Project Page](https://huggingface.co/papers/2306.14289) | [Code](https://github.com/ChaoningZhang/MobileSAM) | Kyung Hee University | make SAM mobile-friendly by replacing the heavyweight image encoder with a lightweight one.|
 | FoodSAM (Any Food Segmentation) | ![img](https://github.com/jamesjg/FoodSAM/blob/main/assets/model.jpg) | [arxiv](https://arxiv.org/abs/2308.05938) | [Project Page](https://starhiking.github.io/FoodSAM_Page/) | [Code](https://github.com/jamesjg/FoodSAM) | UCAS | semantic, instance, panoptic, interactive segmentation on food image.|
+| DefectSAM | ![img](./imgs/DefectSAM-model.png) | [arxiv](https://arxiv.org/abs/2311.10245) | - | [Code](https://github.com/bozhenhhu/DefectSAM) | ZJU, Westlake, UESTC, etc. | infrared thermal images, defect detection.|
 
 #### Medical Image Segmentation
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
