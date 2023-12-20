@@ -190,7 +190,7 @@ examples.|
 | SAM U Specify |![img](./imgs/sus.png) | - |[Code](https://github.com/MaybeShewill-CV/segment-anything-u-specify) | - | Use SAM and CLIP model to segment unique instances you want.]
 | SAM web UI |![img](https://github.com/Kingfish404/segment-anything-webui/raw/main/assets/demo.gif) | [App](https://segment-anything-webui.vercel.app/) |[Code](https://github.com/Kingfish404/segment-anything-webui/) | - | This is a new web interface for the SAM.|
 | Finetune Anything | ![img](https://user-images.githubusercontent.com/67993288/230864865-db8810fd-9f0c-4f3e-81b1-8753b5121d03.png) | - | [Code](https://github.com/ziqi-jin/finetune-anything) | - |A class-aware one-stage tool for training fine-tuning models based on SAM.|
-
+| NanoSAM | ![img](https://github.com/NVIDIA-AI-IOT/nanosam/blob/main/assets/basic_usage_out.jpg) | - | [Code](https://github.com/NVIDIA-AI-IOT/nanosam) | - |A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT.|
 
 #### Video Segmentation task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
