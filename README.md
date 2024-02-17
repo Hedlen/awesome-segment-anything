@@ -92,7 +92,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Segment Anything Model for Medical Image Analysis: an Experimental Study | ![img1](./imgs/sam_on_medical_image_study.png) | [arXiv](https://arxiv.org/pdf/2304.10517.pdf) | - | - | - | Thorough experiments evaluating how SAM performs on 19 medical image datasets. |
 | Medical-SAM-Adapter | ![img1](https://github.com/WuJunde/Medical-SAM-Adapter/raw/main/figs/medsamadpt.jpeg) | [arXiv](https://arxiv.org/abs/2304.12620.pdf) | - | [Code](https://github.com/KidsWithTokens/Medical-SAM-Adapter) | - | A project to finetune SAM using Adaption for the Medical Imaging. |
 | SAM-Med2d | ![img1](https://github.com/OpenGVLab/SAM-Med2D/blob/main/assets/visualization.png) | [arXiv](https://arxiv.org/abs/2308.16184) | - | [Code](https://github.com/OpenGVLab/SAM-Med2D) | Sichuan University & Shanghai AI Laboratory | The most comprehensive studies on applying SAM to medical 2D images |
-
+| ScribblePrompt-SAM | ![img1](https://github.com/halleewong/ScribblePrompt/blob/website/assets/gifs/total_segmentator.gif) | [arXiv](https://arxiv.org/abs/2312.07381) | [Project Page](https://scribbleprompt.csail.mit.edu/) | [Code](https://github.com/halleewong/ScribblePrompt) | MIT & MGH | Fine-tuned SAM on 65 biomedical imaging datasets with scribble, click, and bounding box inputs |
 #### Bioimage Analysis
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
