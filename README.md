@@ -149,6 +149,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
 | RSPrompter | ![img](https://kyanchen.github.io/RSPrompter/resources/teaser.jpg) | [arXiv](https://arxiv.org/pdf/2306.16269.pdf) | [Project Page](https://kyanchen.github.io/RSPrompter/) | [Code](https://github.com/KyanChen/RSPrompter) | Beihang University | An automated instance segmentation approach for remote sensing images based on the SAM. |
 | SAM-CD | ![img](https://github.com/ggsDing/SAM-CD/blob/main/flowchart.png) | [arXiv](https://arxiv.org/abs/2309.01429) | - | [Code](https://github.com/ggsDing/SAM-CD) | PLA Information Engineering University | A sample-efficient change detection framework that employs SAM as the visual encoder. |
+| SAM-Road: Segment Anything Model for Road Network Graph Extraction | ![img](https://github.com/htcr/awesome-segment-anything/blob/main/imgs/sam_road_cover.png) | [arXiv](http://arxiv.org/abs/2403.16051) | - | [Code](https://github.com/htcr/sam_road) | Carnegie Mellon University | A simple and fast method applying SAM for vectorized large-scale road network graph extraction. It reaches state-of-the-art accuracy while being 40 times faster. |
 
 #### Tracking
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
