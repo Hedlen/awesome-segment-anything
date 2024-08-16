@@ -13,11 +13,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 ## News
 ```
+- 2024.8.16 Add Segment Anything2 and SaLIP.
 - 2023.8.29: Update some recent works.
 - 2023.5.20: Update document structure and add a robotic-related article. Happy 520 Day！
 - 2023.5.4: Add SEEM.
-- 2023.4.18: Add two nice job Inpainting Anything and SAM-Track.
-- 2023.4.12: Add some presentations.
+- 2023.4.18: Add job Inpainting Anything and SAM-Track.
 - 2023.4.12: An initial version of recent papers or projects.
 ```
 
@@ -64,6 +64,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Segment Anything | ![img](https://github.com/facebookresearch/segment-anything/raw/main/assets/model_diagram.png?raw=true)![img](https://github.com/facebookresearch/segment-anything/raw/main/assets/masks2.jpg?raw=true)| [arXiv](https://arxiv.org/abs/2304.02643) | [Project page](https://segment-anything.com/) | [Code](https://github.com/facebookresearch/segment-anything) | Meta | A stronger Large model which can be used to generate masks for all objects in an image.| 
 | SegGPT | ![img](https://github.com/baaivision/Painter/raw/main/SegGPT/seggpt_teaser.png)| [arXiv](https://arxiv.org/abs/2304.03284) | [Project page](https://huggingface.co/spaces/BAAI/SegGPT) | [Code](https://github.com/baaivision/Painter) | BAAI | Segmenting Everything In Context based on Painter.|
 | Segment Everything Everywhere All at Once (SEEM) | ![img](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/raw/main/assets/teaser_new.png?raw=true) |[arXiv](https://arxiv.org/pdf/2304.06718.pdf) | [Project Page](https://huggingface.co/spaces/xdecoder/SEEM) | [Code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)| Microsoft | Semantic Segmentation with various prompt types.|
+| Segment Everything2  | ![img]([https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/raw/main/assets/teaser_new.png?raw=true](https://github.com/facebookresearch/segment-anything-2/blob/main/assets/model_diagram.png?raw=true)) |[Paper]([https://arxiv.org/pdf/2304.06718.pdf](https://scontent-fmx1-1.xx.fbcdn.net/v/t39.2365-6/453626691_1879405402541497_3155007177325245432_n.pdf?_nc_cat=106&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=lkNRHLYBebIQ7kNvgHl-Sjg&_nc_ht=scontent-fmx1-1.xx&oh=00_AYBDsA5Jo0xafWqN9cTfq7tklJ9QHxbyyzLnvg5qCaG6kw&oe=66C4AD0C)) | [Project Page]([https://huggingface.co/spaces/xdecoder/SEEM](https://ai.meta.com/sam2/)) | [Code]([https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/facebookresearch/segment-anything-2?tab=readme-ov-file))| Meta | A foundation model towards solving promptable visual segmentation in images and videos..|
 
 ### Derivative Papers
 
@@ -93,6 +94,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Medical-SAM-Adapter | ![img1](https://github.com/WuJunde/Medical-SAM-Adapter/raw/main/figs/medsamadpt.jpeg) | [arXiv](https://arxiv.org/abs/2304.12620.pdf) | - | [Code](https://github.com/KidsWithTokens/Medical-SAM-Adapter) | - | A project to finetune SAM using Adaption for the Medical Imaging. |
 | SAM-Med2d | ![img1](https://github.com/OpenGVLab/SAM-Med2D/blob/main/assets/visualization.png) | [arXiv](https://arxiv.org/abs/2308.16184) | - | [Code](https://github.com/OpenGVLab/SAM-Med2D) | Sichuan University & Shanghai AI Laboratory | The most comprehensive studies on applying SAM to medical 2D images |
 | ScribblePrompt-SAM | ![img1](https://github.com/halleewong/ScribblePrompt/blob/website/assets/gifs/total_segmentator.gif) | [arXiv](https://arxiv.org/abs/2312.07381) | [Project Page](https://scribbleprompt.csail.mit.edu/) | [Code](https://github.com/halleewong/ScribblePrompt) | MIT & MGH | Fine-tuned SAM on 65 biomedical imaging datasets with scribble, click, and bounding box inputs |
+| SaLIP | - | [arXiv]([https://arxiv.org/abs/2312.07381](https://arxiv.org/abs/2404.06362)) | [Project Page](https://scribbleprompt.csail.mit.edu/) | [Code]([https://github.com/halleewong/ScribblePrompt](https://github.com/aleemsidra/SaLIP)) | - | Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero-shot
+Medical Image Segmentation. |
 #### Bioimage Analysis
 | Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|:---:|
