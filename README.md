@@ -168,11 +168,14 @@ Medical Image Segmentation. |
 | AV-SAM | ![img1](./imgs/sam-av.png) | [arXiv](https://arxiv.org/pdf/2305.01836.pdf) | - | [Code](https://github.com/alaamaalouf/FollowAnything) | CMU | A simple yet effective audio-visual localization and segmentation framework based on the SAM.|
 
 #### Adversarial Attacks
-| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
-|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
-| Attack-SAM | - | [arXiv](https://arxiv.org/pdf/2305.00866.pdf) | - | - | KAIST | The
-first work of conduct a comprehensive investigation on how to attack SAM with adversarial
-examples.|
+| Title | Presentation| Paper page | Project page | Code base | Affiliation|                                               Description                                               |
+|:---:|:---:|:---:|:---:| :---:| :---:|:-------------------------------------------------------------------------------------------------------:|
+| Attack-SAM | - | [arXiv](https://arxiv.org/pdf/2305.00866.pdf) | - | - | KAIST | The first work of conduct a comprehensive investigation on how to attack SAM with adversarial examples. |
+
+#### Adversarial Attacks
+| Title | Presentation| Paper page | Project page | Code base | Affiliation|                                               Description                                               |
+|:---:|:---:|:---:|:---:| :---:| :---:|:-------------------------------------------------------------------------------------------------------:|
+| Attack-SAM | - | [arXiv](https://arxiv.org/pdf/2305.00866.pdf) | - | - | KAIST | The first work of conduct a comprehensive investigation on how to attack SAM with adversarial examples. |
 
 ### Derivative Projects
 #### Image Segmentation task
