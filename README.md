@@ -172,10 +172,10 @@ Medical Image Segmentation. |
 |:---:|:---:|:---:|:---:| :---:| :---:|:-------------------------------------------------------------------------------------------------------:|
 | Attack-SAM | - | [arXiv](https://arxiv.org/pdf/2305.00866.pdf) | - | - | KAIST | The first work of conduct a comprehensive investigation on how to attack SAM with adversarial examples. |
 
-#### Adversarial Attacks
+#### Multimedia Forensics
 | Title | Presentation| Paper page | Project page | Code base | Affiliation|                                               Description                                               |
 |:---:|:---:|:---:|:---:| :---:| :---:|:-------------------------------------------------------------------------------------------------------:|
-| Attack-SAM | - | [arXiv](https://arxiv.org/pdf/2305.00866.pdf) | - | - | KAIST | The first work of conduct a comprehensive investigation on how to attack SAM with adversarial examples. |
+| SAFIRE: Segment Any Forged Image Region | ![safire_image](https://github.com/mjkwon2021/SAFIRE/blob/main/figure_inference.png) | [arXiv](https://arxiv.org/abs/2412.08197) | - | - | KAIST | Extends SAM's point prompting capability to image forensics, enabling precdise source-awqare segmentation for forgery localization. |
 
 ### Derivative Projects
 #### Image Segmentation task
