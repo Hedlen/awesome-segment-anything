@@ -175,7 +175,7 @@ Medical Image Segmentation. |
 #### Multimedia Forensics
 | Title | Presentation| Paper page | Project page | Code base | Affiliation|                                               Description                                               |
 |:---:|:---:|:---:|:---:| :---:| :---:|:-------------------------------------------------------------------------------------------------------:|
-| SAFIRE: Segment Any Forged Image Region | ![safire_image](https://github.com/mjkwon2021/SAFIRE/blob/main/figure_inference.png) | [arXiv](https://arxiv.org/abs/2412.08197) | - | - | KAIST | Extends SAM's point prompting capability to image forensics, enabling precdise source-awqare segmentation for forgery localization. |
+| SAFIRE: Segment Any Forged Image Region | ![safire_image](https://github.com/mjkwon2021/SAFIRE/blob/main/figure_inference.png) | [arXiv](https://arxiv.org/abs/2412.08197) | - | [Code](https://github.com/mjkwon2021/SAFIRE) | KAIST | Extends SAM's point prompting capability to image forensics, enabling precdise source-awqare segmentation for forgery localization. |
 
 ### Derivative Projects
 #### Image Segmentation task
