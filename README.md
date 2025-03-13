@@ -168,11 +168,14 @@ Medical Image Segmentation. |
 | AV-SAM | ![img1](./imgs/sam-av.png) | [arXiv](https://arxiv.org/pdf/2305.01836.pdf) | - | [Code](https://github.com/alaamaalouf/FollowAnything) | CMU | A simple yet effective audio-visual localization and segmentation framework based on the SAM.|
 
 #### Adversarial Attacks
-| Title | Presentation| Paper page | Project page | Code base | Affiliation| Description|
-|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
-| Attack-SAM | - | [arXiv](https://arxiv.org/pdf/2305.00866.pdf) | - | - | KAIST | The
-first work of conduct a comprehensive investigation on how to attack SAM with adversarial
-examples.|
+| Title | Presentation| Paper page | Project page | Code base | Affiliation|                                               Description                                               |
+|:---:|:---:|:---:|:---:| :---:| :---:|:-------------------------------------------------------------------------------------------------------:|
+| Attack-SAM | - | [arXiv](https://arxiv.org/pdf/2305.00866.pdf) | - | - | KAIST | The first work of conduct a comprehensive investigation on how to attack SAM with adversarial examples. |
+
+#### Multimedia Forensics
+| Title | Presentation| Paper page | Project page | Code base | Affiliation|                                               Description                                               |
+|:---:|:---:|:---:|:---:| :---:| :---:|:-------------------------------------------------------------------------------------------------------:|
+| SAFIRE: Segment Any Forged Image Region | ![safire_image](https://github.com/mjkwon2021/SAFIRE/blob/main/figure_inference.png) | [arXiv](https://arxiv.org/abs/2412.08197) | - | [Code](https://github.com/mjkwon2021/SAFIRE) | KAIST | Extends SAM's point prompting capability to image forensics, enabling precdise source-awqare segmentation for forgery localization. |
 
 ### Derivative Projects
 #### Image Segmentation task
