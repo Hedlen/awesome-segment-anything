@@ -40,6 +40,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
   - [Tracking](#tracking)
   - [Audio-visual Localization and Segmentation](#audio-visual-ocalization-and-segmentation)
   - [Adversarial Attacks](#adversarial-attacks)
+  - [LLM and SAM](#llm-and-sam)
+  - [Autonomous Driving](#autonomous-driving)
 - [Derivative Projects](#derivative-projects) 
   - [Image Segmentation task](#image-segmentation-task)
   - [Video Segmentation task](#video-segmentation-task)
@@ -184,6 +186,18 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title                                   | Presentation                                                                         | Paper page                                | Project page | Code base                                    | Affiliation | Description                                                                                                                       |
 | :---------------------------------------:| :------------------------------------------------------------------------------------:| :-----------------------------------------:| :------------:| :--------------------------------------------:| :-----------:| :---------------------------------------------------------------------------------------------------------------------------------:|
 | SAFIRE: Segment Any Forged Image Region | ![safire_image](https://github.com/mjkwon2021/SAFIRE/blob/main/figure_inference.png) | [arXiv](https://arxiv.org/abs/2412.08197) | -            | [Code](https://github.com/mjkwon2021/SAFIRE) | KAIST       | Extends SAM's point prompting capability to image forensics, enabling precise source-aware segmentation for forgery localization. |
+
+#### LLM and SAM
+| Title | Presentation | Paper page | Project page | Code base | Affiliation | Description |
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| LISA | ![img](https://github.com/dvlab-research/LISA/raw/main/vis_demo/teaser.jpg) | [CVPR2024](https://arxiv.org/abs/2308.00692) | [Project Page](https://huggingface.co/papers/2308.00692) | [Code](https://github.com/dvlab-research/LISA) | CUHK | Large Language Instructed Segmentation Assistant: inherits LLM language generation while producing segmentation masks from complex implicit text queries. |
+| Sa2VA | ![img](https://github.com/magic-research/Sa2VA/raw/main/assets/teaser.png) | [arXiv](https://arxiv.org/abs/2501.04001) | [Project Page](https://huggingface.co/papers/2501.04001) | [Code](https://github.com/magic-research/Sa2VA) | - | Marries SAM 2 with LLaVA for dense grounded understanding of images and videos; unifies text, image, and video into a shared LLM token space. |
+
+#### Autonomous Driving
+| Title | Presentation | Paper page | Project page | Code base | Affiliation | Description |
+|:---:|:---:|:---:|:---:| :---:| :---:|:---:|
+| AD-SAM | - | [arXiv](https://arxiv.org/abs/2510.27047) | - | - | - | Fine-tuned SAM with dual-encoder and deformable decoder for semantic segmentation in autonomous driving scenes. |
+| SAM4UDASS | - | [arXiv](https://arxiv.org/abs/2401.08604) | - | - | - | Incorporates SAM into self-training UDA methods for refining pseudo-labels in unsupervised domain adaptive semantic segmentation for intelligent vehicles. |
 
 ### Derivative Projects
 #### Image Segmentation task
