@@ -11,7 +11,7 @@ Segment Anything has led to a new breakthrough in the field of Computer Vision (
 
 If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️. Thanks.
 ## 🏅Recognition 
-This repository has been featured on [Shypd.Ai](https://shypd.ai/tools/awesome-segment-anything?utm_source=email&utm_medium=e1&utm_campaign=outreach), the largest open index of AI tools worldwide (over 80,000 tools). It is categorized under Academic Research, an emerging section that currently hosts fewer than 1,800 high-quality AI resources.
+This repository has been featured on [Shypd.Ai](https://shypd.ai/e/awesome-segment-anything), the largest open index of AI tools worldwide (over 80,000 tools). It is categorized under Academic Research, an emerging section that currently hosts fewer than 1,800 high-quality AI resources.
 
 ## News
 - 2026.4: Added RankSEG (NeurIPS 2025 & JMLR 2023), EfficientSAM (CVPR 2024), EdgeSAM, Semantic-SAM, MedSAM-2, SurgicalSAM (AAAI 2024) and more.
