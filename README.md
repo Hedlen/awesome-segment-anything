@@ -12,6 +12,7 @@ Segment Anything has led to a new breakthrough in the field of Computer Vision (
 If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️. Thanks.
 
 ## News
+- Congratulations on building awesome-segment-anything. We have listed it as an AI tool for Academic Research on [Shypd.Ai](https://shypd.ai/e/awesome-segment-anything). Shypd is the largest open index of AI tools, listing 80,000+ tools. Academic Research on Shypd has 1733 tools in it as of today.
 - 2026.4: Added RankSEG (NeurIPS 2025 & JMLR 2023), EfficientSAM (CVPR 2024), EdgeSAM, Semantic-SAM, MedSAM-2, SurgicalSAM (AAAI 2024) and more.
 - 2025.11.19: Added SAM 3 - Meta's latest breakthrough in visual segmentation with text-based prompting and concept-level understanding.
 - 2024.9: Added SAM 2.1 - Enhanced version with improved video segmentation and training code release.
