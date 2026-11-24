@@ -234,6 +234,7 @@ This repository has been featured on [Shypd.Ai](https://shypd.ai/e/awesome-segme
 |:---:|:---:|:---:|:---:| :---:| :---:|
 | MetaSeg | ![img](https://github.com/kadirnar/segment-anything-pip/releases/download/v0.2.2/metaseg_demo.gif) | [HuggingFace](https://huggingface.co/spaces/ArtGAN/Segment-Anything-Video) | [Code](https://github.com/kadirnar/segment-anything-video) | - | SAM + Video. |
 | SAM-Track | [Video](https://www.youtube.com/watch?v=UPhtpf1k6HA&feature=youtu.be&themeRefresh=1) | [YoutubeDemo](https://www.youtube.com/watch?v=Xyd54AngvV8) | [Code](https://github.com/z-x-yang/Segment-and-Track-Anything) | Zhejiang University | This project, which is based on SAM and DeAOT, focuses on segmenting and tracking objects in videos. |
+| FishID Studio | ![img](https://raw.githubusercontent.com/viniciusscience/fishid-studio/main/docs/fishid_em_demo.gif) | [Zenodo DOI](https://doi.org/10.5281/zenodo.24451918) | [Code](https://github.com/viniciusscience/fishid-studio) | UNIVALI / LEMA | SAM 2 + ByteTrack + ConvNeXt-Tiny platform for marine fish video segmentation, multi-object tracking, electronic monitoring (EM), and automated biometry. |
 
 #### Medical image Segmentation task
 | Title | Presentation| Project page | Code base | Affiliation| Description|
